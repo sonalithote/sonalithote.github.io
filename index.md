@@ -13,9 +13,10 @@ I hold Master degree (MS) in Computer Science Engineering with data science spec
 
 Currently actively looking for opportunities in the Bay Area and open to interviews. Resident of San Jose, California.
 
-{% include button.html text="Connect Catalyst " icon="linkedin" link="https://www.linkedin.com/in/sonali-thote/" color="#0366d6" %} {% include button.html text="Code Canvas" icon="github" link="https://github.com/sonalithote" color="#24292e" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/?lang=en" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Connect Catalyst " icon="linkedin" link="https://www.linkedin.com/in/sonali-thote/" color="#0366d6" %} {% include button.html text="Code Canvas" icon="github" link="https://github.com/sonalithote" color="#24292e" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/?lang=en" color="#0d94e7" %} 
+<!-- {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 
-## Features
+<!-- ## Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
@@ -94,4 +95,4 @@ When using Alembic as a theme means you can take advantage of the file overridin
 
 To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings. -->
