@@ -13,7 +13,7 @@ I hold Master degree (MS) in Computer Science Engineering with data science spec
 
 Currently actively looking for opportunities in the Bay Area and open to interviews. Resident of San Jose, California.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/sonalithote/sonalithote.github.io" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/sonalithote#support" color="#f68140" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Connect Catalyst " icon="linkedin" link="https://www.linkedin.com/in/sonali-thote/" color="#0366d6" %} {% include button.html text="Code Canvas" icon="github" link="https://github.com/sonalithote" color="#24292e" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/?lang=en" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
 
