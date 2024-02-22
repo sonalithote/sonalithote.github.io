@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/research/professional%20project/2016/08/27/example-post-one/</loc>
-<lastmod>2016-08-27T00:00:00+01:00</lastmod>
+<loc>http://localhost:4000/ml_project/2021/03/22/traffic-signs-detection/</loc>
+<lastmod>2021-03-22T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/history/professional%20experience/2016/08/28/example-post-two/</loc>
-<lastmod>2016-08-28T00:00:00+01:00</lastmod>
+<loc>http://localhost:4000/history/professional%20experience/2021/04/28/example-post-two/</loc>
+<lastmod>2021-04-28T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/general/2016/08/29/example-post-three/</loc>
-<lastmod>2016-08-29T00:00:00+01:00</lastmod>
+<loc>http://localhost:4000/general/2021/06/29/example-post-three/</loc>
+<lastmod>2021-06-29T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ml_experiment/2022/07/22/traffic-signs-classification-with-cnn/</loc>
+<lastmod>2022-07-22T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/research/professional%20project/2023/09/27/example-post-one/</loc>
+<lastmod>2023-09-27T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/categories/</loc>
@@ -31,10 +39,16 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/projects/project1/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/search/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/Resume.pdf</loc>

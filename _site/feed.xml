@@ -1,4 +1,593 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2024-02-21T22:02:16+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alembic</title><subtitle>Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately</subtitle><author><name>sonalithote</name></author><entry><title type="html">Story of brutal code refactoring</title><link href="http://localhost:4000/general/2016/08/29/example-post-three/" rel="alternate" type="text/html" title="Story of brutal code refactoring" /><published>2016-08-29T00:00:00+01:00</published><updated>2016-08-29T00:00:00+01:00</updated><id>http://localhost:4000/general/2016/08/29/example-post-three</id><content type="html" xml:base="http://localhost:4000/general/2016/08/29/example-post-three/"><![CDATA[<p>In the dynamic realm of backend development, where the heartbeat of a system is measured in lines of code, there exists the occasional need for a revolutionary overhaul. This is the story of a relentless pursuit of excellence, a journey of agile code refactoring within the Python and Java tech stack.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2024-02-22T02:20:18+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alembic</title><subtitle>Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately</subtitle><author><name>sonalithote</name></author><entry><title type="html">Optimizing Kubernetes - Unveiling Solutions to the ‘Cold-Start</title><link href="http://localhost:4000/research/professional%20project/2023/09/27/example-post-one/" rel="alternate" type="text/html" title="Optimizing Kubernetes - Unveiling Solutions to the ‘Cold-Start" /><published>2023-09-27T00:00:00+01:00</published><updated>2023-09-27T00:00:00+01:00</updated><id>http://localhost:4000/research/professional%20project/2023/09/27/example-post-one</id><content type="html" xml:base="http://localhost:4000/research/professional%20project/2023/09/27/example-post-one/"><![CDATA[<p>In the intricate world of containerized applications, the persistent challenge of the “cold-start” problem has spurred innovative minds to delve deep into the heart of Kubernetes clusters. This blog unveils the journey of a dedicated engineer who, with a keen focus on latency issues, has not only identified but significantly alleviated performance bottlenecks within Kubernetes environments.</p>
+
+<!-- more -->
+
+<ul>
+  <li>Decoding the ‘Cold-Start’ Challenge</li>
+</ul>
+
+<p>The first chapter of this narrative revolves around addressing the notorious “cold-start” problem that plagues containerized applications. Through meticulous analysis of latency issues within Kubernetes clusters, our intrepid engineer identified key pain points and embarked on a mission to revolutionize performance.</p>
+
+<ul>
+  <li>The Art of Optimization: Container Preload, Caching, and Eviction</li>
+</ul>
+
+<p>A pivotal moment in this journey was the groundbreaking achievement of vastly improved performance through the optimization of container preload, caching, and eviction. By fine-tuning these elements based on the specific request patterns of machine learning applications, our engineer paved the way for a more responsive and efficient Kubernetes ecosystem.</p>
+
+<ul>
+  <li>Innovation Unleashed: K3s Kubernetes Application Framework</li>
+</ul>
+
+<p>The narrative unfolds further with the development of a K3s Kubernetes-based application framework designed specifically to address the unique challenges posed by mobile edge computing environments. This innovative framework not only hosts a diverse array of machine learning applications but also hones in on predicting client mobility while simultaneously optimizing container latency.</p>
+
+<ul>
+  <li>A Triumph on the K8s Stage: Boosting Performance to 60%</li>
+</ul>
+
+<p>The climax of this story takes place on a 3-node Kubernetes (K8s) cluster, where our engineer demonstrated unparalleled success. By hosting machine learning applications with an impressive 20 replicas each, the performance soared to a remarkable 60%. This feat not only surpassed expectations but outshone traditional cloud platforms, marking a significant milestone in the ongoing battle against latency in machine learning applications.</p>
+
+<p>As we conclude this journey into the intricacies of Kubernetes optimization for machine learning, it becomes evident that our dedicated engineer’s innovative solutions have far-reaching implications. The quest to conquer the “cold-start” problem has not only enhanced the performance of containerized applications but has also paved the way for future advancements in the dynamic landscape of Kubernetes and machine learning.</p>
+
+<p>In the ever-evolving realm of technology, where challenges breed innovation, this blog serves as a testament to the relentless pursuit of excellence. Our engineer’s journey from analyzing latency issues to optimizing container behaviors reflects the spirit of progress that defines the Kubernetes ecosystem, promising a brighter and more efficient future for containerized applications in the world of machine learning.</p>]]></content><author><name>sonalithote</name></author><category term="Research" /><category term="Professional project" /><summary type="html"><![CDATA[In the intricate world of containerized applications, the persistent challenge of the “cold-start” problem has spurred innovative minds to delve deep into the heart of Kubernetes clusters. This blog unveils the journey of a dedicated engineer who, with a keen focus on latency issues, has not only identified but significantly alleviated performance bottlenecks within Kubernetes environments.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Traffic Signs Classification</title><link href="http://localhost:4000/ml_experiment/2022/07/22/traffic-signs-classification-with-cnn/" rel="alternate" type="text/html" title="Traffic Signs Classification" /><published>2022-07-22T00:00:00+01:00</published><updated>2022-07-22T00:00:00+01:00</updated><id>http://localhost:4000/ml_experiment/2022/07/22/traffic-signs-classification-with-cnn</id><content type="html" xml:base="http://localhost:4000/ml_experiment/2022/07/22/traffic-signs-classification-with-cnn/"><![CDATA[<h3 id="traffic-signs-classification-with-cnn">Traffic Signs Classification with CNN</h3>
+
+<ul>
+  <li>Implementing Traffic Signs Classification with Convolutional Neural Networks (CNN) represents a significant stride in computer vision applications. By utilizing CNN architectures tailored for image classification tasks, this approach excels in accurately categorizing various traffic signs. The inherent ability of CNNs to capture spatial hierarchies and patterns within images allows for robust recognition of diverse sign shapes, colors, and symbols. The model’s training involves learning intricate features, empowering it to distinguish between distinct classes, including speed limits, stop signs, and directional indicators. This technology serves as a pivotal component in enhancing road safety measures and supporting intelligent transportation systems.</li>
+</ul>
+
+<h1 id="importing-needed-libraries">Importing needed libraries</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span> <span class="c1"># linear algebra
+</span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="n">pd</span> <span class="c1"># data processing, CSV file I/O (e.g. pd.read_csv)
+</span><span class="kn">import</span> <span class="nn">pickle</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
+<span class="kn">from</span> <span class="nn">timeit</span> <span class="kn">import</span> <span class="n">default_timer</span> <span class="k">as</span> <span class="n">timer</span>
+
+<span class="kn">from</span> <span class="nn">keras.utils.np_utils</span> <span class="kn">import</span> <span class="n">to_categorical</span>
+<span class="kn">from</span> <span class="nn">keras.models</span> <span class="kn">import</span> <span class="n">Sequential</span>
+<span class="kn">from</span> <span class="nn">keras.layers</span> <span class="kn">import</span> <span class="n">Dense</span><span class="p">,</span> <span class="n">Dropout</span><span class="p">,</span> <span class="n">Flatten</span><span class="p">,</span> <span class="n">Conv2D</span><span class="p">,</span> <span class="n">MaxPool2D</span><span class="p">,</span> <span class="n">AvgPool2D</span><span class="p">,</span> <span class="n">BatchNormalization</span><span class="p">,</span> <span class="n">Reshape</span>
+<span class="kn">from</span> <span class="nn">keras.preprocessing.image</span> <span class="kn">import</span> <span class="n">ImageDataGenerator</span>
+<span class="kn">from</span> <span class="nn">keras.callbacks</span> <span class="kn">import</span> <span class="n">LearningRateScheduler</span>
+
+<span class="c1"># Input data files are available in the "../input/" directory.
+# For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
+</span>
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="k">for</span> <span class="n">dirname</span><span class="p">,</span> <span class="n">_</span><span class="p">,</span> <span class="n">filenames</span> <span class="ow">in</span> <span class="n">os</span><span class="p">.</span><span class="n">walk</span><span class="p">(</span><span class="s">'archive/'</span><span class="p">):</span>
+    <span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">filenames</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">path</span><span class="p">.</span><span class="n">join</span><span class="p">(</span><span class="n">dirname</span><span class="p">,</span> <span class="n">filename</span><span class="p">))</span>
+
+<span class="k">print</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">listdir</span><span class="p">(</span><span class="s">'archive/'</span><span class="p">))</span>
+
+<span class="c1"># Any results we write to the current directory are saved as output
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>archive/test.pickle
+archive/data0.pickle
+archive/data2.pickle
+archive/std_gray.pickle
+archive/mean_image_rgb.pickle
+archive/data6.pickle
+archive/datasets_preparing.py
+archive/data8.pickle
+archive/data4.pickle
+archive/label_names.csv
+archive/data1.pickle
+archive/valid.pickle
+archive/std_rgb.pickle
+archive/data3.pickle
+archive/train.pickle
+archive/data7.pickle
+archive/mean_image_gray.pickle
+archive/data5.pickle
+archive/labels.pickle
+['test.pickle', 'data0.pickle', 'data2.pickle', 'std_gray.pickle', 'mean_image_rgb.pickle', 'data6.pickle', 'datasets_preparing.py', 'data8.pickle', 'data4.pickle', 'label_names.csv', 'data1.pickle', 'valid.pickle', 'std_rgb.pickle', 'data3.pickle', 'train.pickle', 'data7.pickle', 'mean_image_gray.pickle', 'data5.pickle', 'labels.pickle']
+</code></pre></div></div>
+
+<h1 id="loading-dataset-data2pickle-with-rgb-examples">Loading dataset data2.pickle with RGB examples</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Opening file for reading in binary mode
+</span><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s">'archive/data2.pickle'</span><span class="p">,</span> <span class="s">'rb'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="n">data</span> <span class="o">=</span> <span class="n">pickle</span><span class="p">.</span><span class="n">load</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">'latin1'</span><span class="p">)</span>  <span class="c1"># dictionary type
+</span>
+<span class="c1"># Preparing y_train and y_validation for using in Keras
+</span><span class="n">data</span><span class="p">[</span><span class="s">'y_train'</span><span class="p">]</span> <span class="o">=</span> <span class="n">to_categorical</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'y_train'</span><span class="p">],</span> <span class="n">num_classes</span><span class="o">=</span><span class="mi">43</span><span class="p">)</span>
+<span class="n">data</span><span class="p">[</span><span class="s">'y_validation'</span><span class="p">]</span> <span class="o">=</span> <span class="n">to_categorical</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'y_validation'</span><span class="p">],</span> <span class="n">num_classes</span><span class="o">=</span><span class="mi">43</span><span class="p">)</span>
+
+<span class="c1"># Making channels come at the end
+</span><span class="n">data</span><span class="p">[</span><span class="s">'x_train'</span><span class="p">]</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'x_train'</span><span class="p">].</span><span class="n">transpose</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<span class="n">data</span><span class="p">[</span><span class="s">'x_validation'</span><span class="p">]</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'x_validation'</span><span class="p">].</span><span class="n">transpose</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<span class="n">data</span><span class="p">[</span><span class="s">'x_test'</span><span class="p">]</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'x_test'</span><span class="p">].</span><span class="n">transpose</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+
+<span class="c1"># Showing loaded data from file
+</span><span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">j</span> <span class="ow">in</span> <span class="n">data</span><span class="p">.</span><span class="n">items</span><span class="p">():</span>
+    <span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="s">'labels'</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">i</span> <span class="o">+</span> <span class="s">':'</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">j</span><span class="p">))</span>
+    <span class="k">else</span><span class="p">:</span> 
+        <span class="k">print</span><span class="p">(</span><span class="n">i</span> <span class="o">+</span> <span class="s">':'</span><span class="p">,</span> <span class="n">j</span><span class="p">.</span><span class="n">shape</span><span class="p">)</span>
+
+<span class="c1"># x_train: (86989, 32, 32, 3)
+# y_train: (86989, 43)
+# x_test: (12630, 32, 32, 3)
+# y_test: (12630,)
+# x_validation: (4410, 32, 32, 3)
+# y_validation: (4410, 43)
+# labels: 43
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>y_test: (12630,)
+y_validation: (4410, 43)
+x_validation: (4410, 32, 32, 3)
+x_train: (86989, 32, 32, 3)
+y_train: (86989, 43)
+labels: 43
+x_test: (12630, 32, 32, 3)
+</code></pre></div></div>
+
+<h1 id="showing-some-examples">Showing some examples</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
+
+<span class="c1"># Preparing function for ploting set of examples
+# As input it will take 4D tensor and convert it to the grid
+# Values will be scaled to the range [0, 255]
+</span><span class="k">def</span> <span class="nf">convert_to_grid</span><span class="p">(</span><span class="n">x_input</span><span class="p">):</span>
+    <span class="n">N</span><span class="p">,</span> <span class="n">H</span><span class="p">,</span> <span class="n">W</span><span class="p">,</span> <span class="n">C</span> <span class="o">=</span> <span class="n">x_input</span><span class="p">.</span><span class="n">shape</span>
+    <span class="n">grid_size</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">ceil</span><span class="p">(</span><span class="n">np</span><span class="p">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">N</span><span class="p">)))</span>
+    <span class="n">grid_height</span> <span class="o">=</span> <span class="n">H</span> <span class="o">*</span> <span class="n">grid_size</span> <span class="o">+</span> <span class="mi">1</span> <span class="o">*</span> <span class="p">(</span><span class="n">grid_size</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span>
+    <span class="n">grid_width</span> <span class="o">=</span> <span class="n">W</span> <span class="o">*</span> <span class="n">grid_size</span> <span class="o">+</span> <span class="mi">1</span> <span class="o">*</span> <span class="p">(</span><span class="n">grid_size</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span>
+    <span class="n">grid</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">zeros</span><span class="p">((</span><span class="n">grid_height</span><span class="p">,</span> <span class="n">grid_width</span><span class="p">,</span> <span class="n">C</span><span class="p">))</span> <span class="o">+</span> <span class="mi">255</span>
+    <span class="n">next_idx</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">y0</span><span class="p">,</span> <span class="n">y1</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">H</span>
+    <span class="k">for</span> <span class="n">y</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">grid_size</span><span class="p">):</span>
+        <span class="n">x0</span><span class="p">,</span> <span class="n">x1</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="n">W</span>
+        <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">grid_size</span><span class="p">):</span>
+            <span class="k">if</span> <span class="n">next_idx</span> <span class="o">&lt;</span> <span class="n">N</span><span class="p">:</span>
+                <span class="n">img</span> <span class="o">=</span> <span class="n">x_input</span><span class="p">[</span><span class="n">next_idx</span><span class="p">]</span>
+                <span class="n">low</span><span class="p">,</span> <span class="n">high</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="nb">min</span><span class="p">(</span><span class="n">img</span><span class="p">),</span> <span class="n">np</span><span class="p">.</span><span class="nb">max</span><span class="p">(</span><span class="n">img</span><span class="p">)</span>
+                <span class="n">grid</span><span class="p">[</span><span class="n">y0</span><span class="p">:</span><span class="n">y1</span><span class="p">,</span> <span class="n">x0</span><span class="p">:</span><span class="n">x1</span><span class="p">]</span> <span class="o">=</span> <span class="mf">255.0</span> <span class="o">*</span> <span class="p">(</span><span class="n">img</span> <span class="o">-</span> <span class="n">low</span><span class="p">)</span> <span class="o">/</span> <span class="p">(</span><span class="n">high</span> <span class="o">-</span> <span class="n">low</span><span class="p">)</span>
+                <span class="n">next_idx</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="n">x0</span> <span class="o">+=</span> <span class="n">W</span> <span class="o">+</span> <span class="mi">1</span>
+            <span class="n">x1</span> <span class="o">+=</span> <span class="n">W</span> <span class="o">+</span> <span class="mi">1</span>
+        <span class="n">y0</span> <span class="o">+=</span> <span class="n">H</span> <span class="o">+</span> <span class="mi">1</span>
+        <span class="n">y1</span> <span class="o">+=</span> <span class="n">H</span> <span class="o">+</span> <span class="mi">1</span>
+
+    <span class="k">return</span> <span class="n">grid</span>
+
+
+<span class="c1"># Visualizing some examples of training data
+</span><span class="n">examples</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'x_train'</span><span class="p">][:</span><span class="mi">81</span><span class="p">,</span> <span class="p">:,</span> <span class="p">:,</span> <span class="p">:]</span>
+<span class="k">print</span><span class="p">(</span><span class="n">examples</span><span class="p">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># (81, 32, 32, 3)
+</span>
+<span class="c1"># Plotting some examples
+</span><span class="n">fig</span> <span class="o">=</span> <span class="n">plt</span><span class="p">.</span><span class="n">figure</span><span class="p">()</span>
+<span class="n">grid</span> <span class="o">=</span> <span class="n">convert_to_grid</span><span class="p">(</span><span class="n">examples</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">grid</span><span class="p">.</span><span class="n">astype</span><span class="p">(</span><span class="s">'uint8'</span><span class="p">),</span> <span class="n">cmap</span><span class="o">=</span><span class="s">'gray'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">axis</span><span class="p">(</span><span class="s">'off'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">gcf</span><span class="p">().</span><span class="n">set_size_inches</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">15</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">title</span><span class="p">(</span><span class="s">'Some examples of training data'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+
+<span class="c1"># Showing the plot
+</span><span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="c1"># Saving the plot
+</span><span class="n">fig</span><span class="p">.</span><span class="n">savefig</span><span class="p">(</span><span class="s">'training_examples.png'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(81, 32, 32, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_7_1.png" alt="png" /></p>
+
+<h1 id="building-model-of-cnn-with-keras">Building model of CNN with Keras</h1>
+<h2 id="trying-one-model-with-filters-of-size-3x3">Trying one model with filters of size 3x3</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">model</span> <span class="o">=</span> <span class="n">Sequential</span><span class="p">()</span>
+<span class="n">model</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">Conv2D</span><span class="p">(</span><span class="mi">32</span><span class="p">,</span> <span class="n">kernel_size</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">padding</span><span class="o">=</span><span class="s">'same'</span><span class="p">,</span> <span class="n">activation</span><span class="o">=</span><span class="s">'relu'</span><span class="p">,</span> <span class="n">input_shape</span><span class="o">=</span><span class="p">(</span><span class="mi">32</span><span class="p">,</span> <span class="mi">32</span><span class="p">,</span> <span class="mi">3</span><span class="p">)))</span>
+<span class="n">model</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">MaxPool2D</span><span class="p">(</span><span class="n">pool_size</span><span class="o">=</span><span class="mi">2</span><span class="p">))</span>
+<span class="n">model</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">Flatten</span><span class="p">())</span>
+<span class="n">model</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">Dense</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span> <span class="n">activation</span><span class="o">=</span><span class="s">'relu'</span><span class="p">))</span>
+<span class="n">model</span><span class="p">.</span><span class="n">add</span><span class="p">(</span><span class="n">Dense</span><span class="p">(</span><span class="mi">43</span><span class="p">,</span> <span class="n">activation</span><span class="o">=</span><span class="s">'softmax'</span><span class="p">))</span>
+<span class="n">model</span><span class="p">.</span><span class="nb">compile</span><span class="p">(</span><span class="n">optimizer</span><span class="o">=</span><span class="s">'adam'</span><span class="p">,</span> <span class="n">loss</span><span class="o">=</span><span class="s">'categorical_crossentropy'</span><span class="p">,</span> <span class="n">metrics</span><span class="o">=</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">])</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>2022-05-08 23:13:33.413998: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+</code></pre></div></div>
+
+<h1 id="overfitting-the-3x3-model-with-small-amount-of-data">Overfitting the 3x3 model with small amount of data</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">annealer</span> <span class="o">=</span> <span class="n">LearningRateScheduler</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">1e-3</span> <span class="o">*</span> <span class="mf">0.95</span> <span class="o">**</span> <span class="p">(</span><span class="n">x</span> <span class="o">+</span> <span class="n">epochs</span><span class="p">))</span>
+<span class="n">epochs</span> <span class="o">=</span> <span class="mi">15</span>
+
+<span class="n">h</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'x_train'</span><span class="p">][:</span><span class="mi">10</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="s">'y_train'</span><span class="p">][:</span><span class="mi">10</span><span class="p">],</span>
+              <span class="n">batch_size</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">epochs</span> <span class="o">=</span> <span class="n">epochs</span><span class="p">,</span>
+              <span class="n">validation_data</span> <span class="o">=</span> <span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'x_validation'</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="s">'y_validation'</span><span class="p">]),</span>
+              <span class="n">callbacks</span><span class="o">=</span><span class="p">[</span><span class="n">annealer</span><span class="p">],</span> <span class="n">verbose</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Epoch 1/15
+2/2 [==============================] - 3s 2s/step - loss: 3.7969 - accuracy: 0.0000e+00 - val_loss: 3.8041 - val_accuracy: 0.0333 - lr: 4.6329e-04
+Epoch 2/15
+2/2 [==============================] - 2s 2s/step - loss: 3.1586 - accuracy: 0.4000 - val_loss: 3.9762 - val_accuracy: 0.0408 - lr: 4.4013e-04
+Epoch 3/15
+2/2 [==============================] - 2s 2s/step - loss: 2.5038 - accuracy: 0.4000 - val_loss: 4.3737 - val_accuracy: 0.0397 - lr: 4.1812e-04
+Epoch 4/15
+2/2 [==============================] - 2s 2s/step - loss: 2.0482 - accuracy: 0.5000 - val_loss: 4.8843 - val_accuracy: 0.0415 - lr: 3.9721e-04
+Epoch 5/15
+2/2 [==============================] - 2s 2s/step - loss: 1.7053 - accuracy: 0.7000 - val_loss: 5.4301 - val_accuracy: 0.0435 - lr: 3.7735e-04
+Epoch 6/15
+2/2 [==============================] - 2s 2s/step - loss: 1.4073 - accuracy: 0.8000 - val_loss: 5.9822 - val_accuracy: 0.0399 - lr: 3.5849e-04
+Epoch 7/15
+2/2 [==============================] - 2s 2s/step - loss: 1.1944 - accuracy: 0.8000 - val_loss: 6.5181 - val_accuracy: 0.0390 - lr: 3.4056e-04
+Epoch 8/15
+2/2 [==============================] - 2s 2s/step - loss: 1.0363 - accuracy: 0.8000 - val_loss: 6.9806 - val_accuracy: 0.0392 - lr: 3.2353e-04
+Epoch 9/15
+2/2 [==============================] - 2s 2s/step - loss: 0.9091 - accuracy: 1.0000 - val_loss: 7.3931 - val_accuracy: 0.0444 - lr: 3.0736e-04
+Epoch 10/15
+2/2 [==============================] - 2s 2s/step - loss: 0.7958 - accuracy: 1.0000 - val_loss: 7.7534 - val_accuracy: 0.0447 - lr: 2.9199e-04
+Epoch 11/15
+2/2 [==============================] - 2s 2s/step - loss: 0.7066 - accuracy: 1.0000 - val_loss: 8.0655 - val_accuracy: 0.0465 - lr: 2.7739e-04
+Epoch 12/15
+2/2 [==============================] - 2s 2s/step - loss: 0.6203 - accuracy: 1.0000 - val_loss: 8.3495 - val_accuracy: 0.0463 - lr: 2.6352e-04
+Epoch 13/15
+2/2 [==============================] - 2s 2s/step - loss: 0.5796 - accuracy: 1.0000 - val_loss: 8.5997 - val_accuracy: 0.0392 - lr: 2.5034e-04
+Epoch 14/15
+2/2 [==============================] - 2s 2s/step - loss: 0.5180 - accuracy: 1.0000 - val_loss: 8.8193 - val_accuracy: 0.0392 - lr: 2.3783e-04
+Epoch 15/15
+2/2 [==============================] - 2s 2s/step - loss: 0.4804 - accuracy: 1.0000 - val_loss: 9.0036 - val_accuracy: 0.0392 - lr: 2.2594e-04
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="s">'Epochs={0:d}, training accuracy={1:.5f}, validation accuracy={2:.5f}'</span><span class="p">.</span>\
+      <span class="nb">format</span><span class="p">(</span><span class="n">epochs</span><span class="p">,</span> <span class="nb">max</span><span class="p">(</span><span class="n">h</span><span class="p">.</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">]),</span> <span class="nb">max</span><span class="p">(</span><span class="n">h</span><span class="p">.</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">])))</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Epochs=15, training accuracy=1.00000, validation accuracy=0.04649
+</code></pre></div></div>
+
+<h1 id="plotting-history-results-for-overfitting-small-data">Plotting history results for overfitting small data</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'figure.figsize'</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="mf">15.0</span><span class="p">,</span> <span class="mf">5.0</span><span class="p">)</span> <span class="c1"># Setting default size of plots
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'image.interpolation'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'nearest'</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'font.family'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'Times New Roman'</span>
+
+<span class="n">fig</span> <span class="o">=</span> <span class="n">plt</span><span class="p">.</span><span class="n">figure</span><span class="p">()</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">.</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">.</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">title</span><span class="p">(</span><span class="s">'Overfitting small data'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">22</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">legend</span><span class="p">([</span><span class="s">'train'</span><span class="p">,</span> <span class="s">'validation'</span><span class="p">],</span> <span class="n">loc</span><span class="o">=</span><span class="s">'upper left'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="s">'xx-large'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s">'Epoch'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'Accuracy'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">tick_params</span><span class="p">(</span><span class="n">labelsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+
+<span class="c1"># Showing the plot
+</span><span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="c1"># Saving the plot
+</span><span class="n">fig</span><span class="p">.</span><span class="n">savefig</span><span class="p">(</span><span class="s">'overfitting_small_data.png'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
+
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_14_0.png" alt="png" /></p>
+
+<h1 id="building-set-of-models-of-cnn-with-keras">Building set of models of CNN with Keras</h1>
+<h2 id="trying-different-models-with-different-dimensions-of-filters">Trying different models with different dimensions of filters</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">filters</span> <span class="o">=</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">9</span><span class="p">,</span> <span class="mi">13</span><span class="p">,</span> <span class="mi">15</span><span class="p">,</span> <span class="mi">19</span><span class="p">,</span> <span class="mi">23</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span> <span class="mi">31</span><span class="p">]</span>
+<span class="n">model</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="nb">len</span><span class="p">(</span><span class="n">filters</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">model</span><span class="p">)):</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">Sequential</span><span class="p">()</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">add</span><span class="p">(</span><span class="n">Conv2D</span><span class="p">(</span><span class="mi">32</span><span class="p">,</span> <span class="n">kernel_size</span><span class="o">=</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">padding</span><span class="o">=</span><span class="s">'same'</span><span class="p">,</span> <span class="n">activation</span><span class="o">=</span><span class="s">'relu'</span><span class="p">,</span> <span class="n">input_shape</span><span class="o">=</span><span class="p">(</span><span class="mi">32</span><span class="p">,</span> <span class="mi">32</span><span class="p">,</span> <span class="mi">3</span><span class="p">)))</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">add</span><span class="p">(</span><span class="n">MaxPool2D</span><span class="p">(</span><span class="n">pool_size</span><span class="o">=</span><span class="mi">2</span><span class="p">))</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">add</span><span class="p">(</span><span class="n">Flatten</span><span class="p">())</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">add</span><span class="p">(</span><span class="n">Dense</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span> <span class="n">activation</span><span class="o">=</span><span class="s">'relu'</span><span class="p">))</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">add</span><span class="p">(</span><span class="n">Dense</span><span class="p">(</span><span class="mi">43</span><span class="p">,</span> <span class="n">activation</span><span class="o">=</span><span class="s">'softmax'</span><span class="p">))</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="nb">compile</span><span class="p">(</span><span class="n">optimizer</span><span class="o">=</span><span class="s">'adam'</span><span class="p">,</span> <span class="n">loss</span><span class="o">=</span><span class="s">'categorical_crossentropy'</span><span class="p">,</span> <span class="n">metrics</span><span class="o">=</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">])</span>
+
+</code></pre></div></div>
+
+<h1 id="training-set-of-models-of-cnn-with-keras">Training set of models of CNN with Keras</h1>
+<h2 id="and-with-different-dimensions-of-filters">And with different dimensions of filters</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">annealer</span> <span class="o">=</span> <span class="n">LearningRateScheduler</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="mf">1e-3</span> <span class="o">*</span> <span class="mf">0.95</span> <span class="o">**</span> <span class="p">(</span><span class="n">x</span> <span class="o">+</span> <span class="n">epochs</span><span class="p">))</span>
+<span class="n">epochs</span> <span class="o">=</span> <span class="mi">5</span>
+
+<span class="n">h</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">*</span> <span class="nb">len</span><span class="p">(</span><span class="n">model</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">h</span><span class="p">)):</span>
+    <span class="n">h</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">fit</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'x_train'</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="s">'y_train'</span><span class="p">],</span>
+                        <span class="n">batch_size</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">epochs</span> <span class="o">=</span> <span class="n">epochs</span><span class="p">,</span>
+                        <span class="n">validation_data</span> <span class="o">=</span> <span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'x_validation'</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="s">'y_validation'</span><span class="p">]),</span>
+                        <span class="n">callbacks</span><span class="o">=</span><span class="p">[</span><span class="n">annealer</span><span class="p">],</span> <span class="n">verbose</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+    
+    <span class="k">print</span><span class="p">(</span><span class="s">'Model with filters {0:d}x{0:d}, epochs={1:d}, training accuracy={2:.5f}, validation accuracy={3:.5f}'</span><span class="p">.</span>\
+      <span class="nb">format</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">epochs</span><span class="p">,</span> <span class="nb">max</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">]),</span> <span class="nb">max</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">])))</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Model with filters 3x3, epochs=5, training accuracy=0.98907, validation accuracy=0.87392
+Model with filters 5x5, epochs=5, training accuracy=0.98709, validation accuracy=0.88073
+</code></pre></div></div>
+
+<h1 id="plotting-comparison-results-for-accuracy">Plotting comparison results for accuracy</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'figure.figsize'</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="mf">15.0</span><span class="p">,</span> <span class="mf">15.0</span><span class="p">)</span> <span class="c1"># Setting default size of plots
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'image.interpolation'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'nearest'</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'font.family'</span><span class="p">]</span> <span class="o">=</span> <span class="s">'Times New Roman'</span>
+
+<span class="c1"># Plotting history of training accuracy
+</span><span class="n">fig</span> <span class="o">=</span> <span class="n">plt</span><span class="p">.</span><span class="n">figure</span><span class="p">()</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">subplot</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">8</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">7</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-s'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">6</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-D'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">5</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-D'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">4</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">3</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">2</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">1</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">legend</span><span class="p">([</span><span class="s">'filter 31'</span><span class="p">,</span> <span class="s">'filter 25'</span><span class="p">,</span> <span class="s">'filter 23'</span><span class="p">,</span> <span class="s">'filter 19'</span><span class="p">,</span> <span class="s">'filter 15'</span><span class="p">,</span> <span class="s">'filter 13'</span><span class="p">,</span> <span class="s">'filter 9'</span><span class="p">,</span> <span class="s">'filter 5'</span><span class="p">,</span> <span class="s">'filter 3'</span><span class="p">],</span> <span class="n">loc</span><span class="o">=</span><span class="s">'lower right'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="s">'xx-large'</span><span class="p">,</span> <span class="n">borderpad</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s">'Epoch'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">fontname</span><span class="o">=</span><span class="s">'Times New Roman'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'Training Accuracy'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">fontname</span><span class="o">=</span><span class="s">'Times New Roman'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">yscale</span><span class="p">(</span><span class="s">'linear'</span><span class="p">)</span>  <span class="c1"># {"linear", "log", "symlog", "logit", ...}
+</span><span class="n">plt</span><span class="p">.</span><span class="n">ylim</span><span class="p">(</span><span class="mf">0.85</span><span class="p">,</span> <span class="mf">1.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlim</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">5.3</span><span class="p">)</span> 
+<span class="n">plt</span><span class="p">.</span><span class="n">title</span><span class="p">(</span><span class="s">'Accuracy for different sizes of filters'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">22</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">tick_params</span><span class="p">(</span><span class="n">labelsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+
+<span class="n">plt</span><span class="p">.</span><span class="n">subplot</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+<span class="c1"># plt.gca().set_title('Validation accuracy')
+</span><span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">8</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">7</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-s'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">6</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-D'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">5</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-D'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">4</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">3</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">2</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">1</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">plot</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_accuracy'</span><span class="p">],</span> <span class="s">'-o'</span><span class="p">,</span> <span class="n">linewidth</span><span class="o">=</span><span class="mf">3.0</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">legend</span><span class="p">([</span><span class="s">'filter 31'</span><span class="p">,</span> <span class="s">'filter 25'</span><span class="p">,</span> <span class="s">'filter 23'</span><span class="p">,</span> <span class="s">'filter 19'</span><span class="p">,</span> <span class="s">'filter 15'</span><span class="p">,</span> <span class="s">'filter 13'</span><span class="p">,</span> <span class="s">'filter 9'</span><span class="p">,</span> <span class="s">'filter 5'</span><span class="p">,</span> <span class="s">'filter 3'</span><span class="p">],</span> <span class="n">loc</span><span class="o">=</span><span class="s">'lower right'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="s">'xx-large'</span><span class="p">,</span> <span class="n">borderpad</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s">'Epoch'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">fontname</span><span class="o">=</span><span class="s">'Times New Roman'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'Validation Accuracy'</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">fontname</span><span class="o">=</span><span class="s">'Times New Roman'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">yscale</span><span class="p">(</span><span class="s">'linear'</span><span class="p">)</span>  <span class="c1"># {"linear", "log", "symlog", "logit", ...}
+</span><span class="n">plt</span><span class="p">.</span><span class="n">ylim</span><span class="p">(</span><span class="mf">0.75</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">xlim</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mf">5.3</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">tick_params</span><span class="p">(</span><span class="n">labelsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+
+<span class="c1"># Showing the plot
+</span><span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="c1"># Saving the plot
+</span><span class="n">fig</span><span class="p">.</span><span class="n">savefig</span><span class="p">(</span><span class="s">'models_accuracy.png'</span><span class="p">)</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
+
+
+<span class="c1"># Showing values of accuracy for different filters
+</span><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">h</span><span class="p">)):</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'data2 filter {0:d} training accuracy = {1:.5f}'</span><span class="p">.</span>\
+          <span class="nb">format</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">np</span><span class="p">.</span><span class="nb">max</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'acc'</span><span class="p">])))</span>
+
+<span class="k">print</span><span class="p">()</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">h</span><span class="p">)):</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">'data2 filter {0:d} validation accuracy = {1:.5f}'</span><span class="p">.</span>\
+          <span class="nb">format</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">np</span><span class="p">.</span><span class="nb">max</span><span class="p">(</span><span class="n">h</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">history</span><span class="p">[</span><span class="s">'val_acc'</span><span class="p">])))</span>
+
+</code></pre></div></div>
+
+<h1 id="calculating-accuracy-with-testing-dataset">Calculating accuracy with testing dataset</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">model</span><span class="p">)):</span>
+    <span class="n">temp</span> <span class="o">=</span> <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">predict</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'x_test'</span><span class="p">])</span>
+    <span class="n">temp</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">temp</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+
+    <span class="c1"># We compare predicted class with correct class for all input images
+</span>    <span class="c1"># And calculating mean value among all values of following numpy array
+</span>    <span class="c1"># By saying 'testing_accuracy == data['y_test']' we create numpy array with True and False values
+</span>    <span class="c1"># 'np.mean' function will return average of the array elements
+</span>    <span class="c1"># The average is taken over the flattened array by default
+</span>    <span class="n">temp</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">mean</span><span class="p">(</span><span class="n">temp</span> <span class="o">==</span> <span class="n">data</span><span class="p">[</span><span class="s">'y_test'</span><span class="p">])</span>
+    
+    <span class="k">print</span><span class="p">(</span><span class="s">'data2 filter {0:d} testing accuracy = {1:.5f}'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">temp</span><span class="p">))</span>
+
+</code></pre></div></div>
+
+<h1 id="time-for-classification">Time for classification</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Getting scores from forward pass of one input image
+# Scores are given for each image with 43 numbers of predictions for each class
+# Measuring at the same time execution time
+</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">model</span><span class="p">)):</span>
+    <span class="n">start</span> <span class="o">=</span> <span class="n">timer</span><span class="p">()</span>
+    <span class="n">temp</span> <span class="o">=</span> <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">predict</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'x_test'</span><span class="p">][:</span><span class="mi">1</span><span class="p">,</span> <span class="p">:,</span> <span class="p">:,</span> <span class="p">:])</span>
+    <span class="n">end</span> <span class="o">=</span> <span class="n">timer</span><span class="p">()</span>
+    
+    <span class="k">print</span><span class="p">(</span><span class="s">'data2 filter {0:d} classification time = {1:.5f}'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">end</span> <span class="o">-</span> <span class="n">start</span><span class="p">))</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>data2 filter 3 classification time = 0.01406
+data2 filter 5 classification time = 0.00414
+data2 filter 9 classification time = 0.00337
+data2 filter 13 classification time = 0.00332
+data2 filter 15 classification time = 0.00321
+data2 filter 19 classification time = 0.00385
+data2 filter 23 classification time = 0.00483
+data2 filter 25 classification time = 0.00474
+data2 filter 31 classification time = 0.01855
+</code></pre></div></div>
+
+<h1 id="visualizing-filters-of-convolutional-layer">Visualizing filters of convolutional layer</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">model</span><span class="p">)):</span>
+    <span class="n">w</span> <span class="o">=</span> <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">get_weights</span><span class="p">()</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">w</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="n">shape</span><span class="p">)</span>
+    <span class="c1"># print(model[i].get_config())
+</span>    <span class="c1"># l = model[i].layers
+</span>    <span class="c1"># print(l[0].get_weights()[0].shape)
+</span>
+    <span class="c1"># Visualizing filters
+</span>    <span class="n">temp</span> <span class="o">=</span> <span class="n">w</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="n">transpose</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">temp</span><span class="p">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># (81, 32, 32, 3)
+</span>
+    <span class="c1"># Plotting
+</span>    <span class="n">fig</span> <span class="o">=</span> <span class="n">plt</span><span class="p">.</span><span class="n">figure</span><span class="p">()</span>
+    <span class="n">grid</span> <span class="o">=</span> <span class="n">convert_to_grid</span><span class="p">(</span><span class="n">temp</span><span class="p">)</span>
+    <span class="n">plt</span><span class="p">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">grid</span><span class="p">.</span><span class="n">astype</span><span class="p">(</span><span class="s">'uint8'</span><span class="p">),</span> <span class="n">cmap</span><span class="o">=</span><span class="s">'gray'</span><span class="p">)</span>
+    <span class="n">plt</span><span class="p">.</span><span class="n">axis</span><span class="p">(</span><span class="s">'off'</span><span class="p">)</span>
+    <span class="n">plt</span><span class="p">.</span><span class="n">gcf</span><span class="p">().</span><span class="n">set_size_inches</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="s">'Trained filters '</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">+</span> <span class="s">'x'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+    <span class="n">plt</span><span class="p">.</span><span class="n">title</span><span class="p">(</span><span class="n">name</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+    
+    <span class="c1"># Showing the plot
+</span>    <span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
+
+    <span class="c1"># Saving the plot
+</span>    <span class="n">name</span> <span class="o">=</span> <span class="s">'filters-'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">+</span> <span class="s">'x'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">+</span> <span class="s">'.png'</span>
+    <span class="n">fig</span><span class="p">.</span><span class="n">savefig</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+    <span class="n">plt</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(3, 3, 3, 32)
+(32, 3, 3, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_1.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(5, 5, 3, 32)
+(32, 5, 5, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_3.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(9, 9, 3, 32)
+(32, 9, 9, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_5.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(13, 13, 3, 32)
+(32, 13, 13, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_7.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(15, 15, 3, 32)
+(32, 15, 15, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_9.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(19, 19, 3, 32)
+(32, 19, 19, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_11.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(23, 23, 3, 32)
+(32, 23, 23, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_13.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(25, 25, 3, 32)
+(32, 25, 25, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_15.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(31, 31, 3, 32)
+(32, 31, 31, 3)
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_26_17.png" alt="png" /></p>
+
+<h1 id="predicting-with-one-image-from-test-dataset">Predicting with one image from test dataset</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
+
+<span class="c1"># Preparing image for predicting from test dataset
+</span><span class="n">x_input</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'x_test'</span><span class="p">][</span><span class="mi">100</span><span class="p">:</span><span class="mi">101</span><span class="p">]</span>
+<span class="k">print</span><span class="p">(</span><span class="n">x_input</span><span class="p">.</span><span class="n">shape</span><span class="p">)</span>
+<span class="n">y_input</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'y_test'</span><span class="p">][</span><span class="mi">100</span><span class="p">:</span><span class="mi">101</span><span class="p">]</span>
+<span class="k">print</span><span class="p">(</span><span class="n">y_input</span><span class="p">)</span>
+
+<span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'figure.figsize'</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="mf">2.5</span><span class="p">,</span> <span class="mf">2.5</span><span class="p">)</span> <span class="c1"># Setting default size of plots
+</span><span class="n">plt</span><span class="p">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">x_input</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="p">:,</span> <span class="p">:,</span> <span class="p">:])</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">axis</span><span class="p">(</span><span class="s">'off'</span><span class="p">)</span>
+
+<span class="c1"># Showing the plot
+</span><span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="c1"># Getting scores from forward pass of input image
+</span><span class="n">scores</span> <span class="o">=</span> <span class="n">model</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="n">predict</span><span class="p">(</span><span class="n">x_input</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">scores</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="n">shape</span><span class="p">)</span> <span class="c1"># (43,)
+</span>
+<span class="c1"># Scores is given for image with 43 numbers of predictions for each class
+# Getting only one class with maximum value
+</span><span class="n">prediction</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">scores</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'ClassId:'</span><span class="p">,</span> <span class="n">prediction</span><span class="p">)</span>
+
+<span class="c1"># Defining function for getting texts for every class - labels
+</span><span class="k">def</span> <span class="nf">label_text</span><span class="p">(</span><span class="nb">file</span><span class="p">):</span>
+    <span class="c1"># Defining list for saving label in order from 0 to 42
+</span>    <span class="n">label_list</span> <span class="o">=</span> <span class="p">[]</span>
+    
+    <span class="c1"># Reading 'csv' file and getting image's labels
+</span>    <span class="n">r</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="n">read_csv</span><span class="p">(</span><span class="nb">file</span><span class="p">)</span>
+    <span class="c1"># Going through all names
+</span>    <span class="k">for</span> <span class="n">name</span> <span class="ow">in</span> <span class="n">r</span><span class="p">[</span><span class="s">'SignName'</span><span class="p">]:</span>
+        <span class="c1"># Adding from every row second column with name of the label
+</span>        <span class="n">label_list</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+    
+    <span class="c1"># Returning resulted list with labels
+</span>    <span class="k">return</span> <span class="n">label_list</span>
+
+
+<span class="c1"># Getting labels
+</span><span class="n">labels</span> <span class="o">=</span> <span class="n">label_text</span><span class="p">(</span><span class="s">'archive/label_names.csv'</span><span class="p">)</span>
+
+<span class="c1"># Printing label for classified Traffic Sign
+</span><span class="k">print</span><span class="p">(</span><span class="s">'Label:'</span><span class="p">,</span> <span class="n">labels</span><span class="p">[</span><span class="n">prediction</span><span class="p">])</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(1, 32, 32, 3)
+[3]
+</code></pre></div></div>
+
+<p><img src="/assets/cnn_imgs/output_28_1.png" alt="png" /></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(43,)
+ClassId: 3
+Label: Speed limit (60km/h)
+</code></pre></div></div>
+
+<h1 id="saving-models">Saving models</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">model</span><span class="p">)):</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="s">'model-'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">+</span> <span class="s">'x'</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">filters</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">+</span> <span class="s">'.h5'</span>
+    <span class="n">model</span><span class="p">[</span><span class="n">i</span><span class="p">].</span><span class="n">save</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+
+<span class="c1"># # Saving model locally without committing
+# from IPython.display import FileLink
+</span>
+<span class="c1"># FileLink('model-3x3.h5')
+</span>
+</code></pre></div></div>]]></content><author><name>sonalithote</name></author><category term="ML_experiment" /><summary type="html"><![CDATA[Revolutionize road safety through Traffic Signs **Classification** with Convolutional Neural Networks (CNN). Tailored CNN architectures excel in accurately categorizing diverse traffic signs, leveraging their ability to capture spatial hierarchies and patterns. This technology is a pivotal force in enhancing road safety measures and supporting intelligent transportation systems.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/2560/600?image=733" /><media:content medium="image" url="https://picsum.photos/2560/600?image=733" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Story of brutal code refactoring</title><link href="http://localhost:4000/general/2021/06/29/example-post-three/" rel="alternate" type="text/html" title="Story of brutal code refactoring" /><published>2021-06-29T00:00:00+01:00</published><updated>2021-06-29T00:00:00+01:00</updated><id>http://localhost:4000/general/2021/06/29/example-post-three</id><content type="html" xml:base="http://localhost:4000/general/2021/06/29/example-post-three/"><![CDATA[<p>In the dynamic realm of backend development, where the heartbeat of a system is measured in lines of code, there exists the occasional need for a revolutionary overhaul. This is the story of a relentless pursuit of excellence, a journey of agile code refactoring within the Python and Java tech stack.</p>
 
 <p>Nestled within the digital corridors of a tech company, a once-efficient module had succumbed to the weight of evolving requirements and hurried fixes, transforming into a tangled web of complexity. Bugs lingered like ghosts of past implementations, demanding a radical transformation. It was against this backdrop that the engineer embarked on a mission to redefine the architecture.</p>
 
@@ -21,7 +610,7 @@ With the commitment to fortify the system against future challenges, the enginee
 
 <p>Word of the successful refactor reverberated through the development team, inspiring a renewed commitment to agile practices and clean coding. The blog of agile code refactoring became a beacon for developers, illustrating that even the most intricate code could be reshaped into an agile and responsive structure.</p>
 
-<p>And so, the symphony of agile code refactoring echoed through the digital corridors, leaving behind a legacy of innovation and efficiency in the ever-evolving landscape of backend development.</p>]]></content><author><name>sonalithote</name></author><category term="General" /><summary type="html"><![CDATA[In the dynamic realm of backend development, where the heartbeat of a system is measured in lines of code, there exists the occasional need for a revolutionary overhaul. This is the story of a relentless pursuit of excellence, a journey of agile code refactoring within the Python and Java tech stack.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/2560/600?image=733" /><media:content medium="image" url="https://picsum.photos/2560/600?image=733" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My journey from Java to Python</title><link href="http://localhost:4000/history/professional%20experience/2016/08/28/example-post-two/" rel="alternate" type="text/html" title="My journey from Java to Python" /><published>2016-08-28T00:00:00+01:00</published><updated>2016-08-28T00:00:00+01:00</updated><id>http://localhost:4000/history/professional%20experience/2016/08/28/example-post-two</id><content type="html" xml:base="http://localhost:4000/history/professional%20experience/2016/08/28/example-post-two/"><![CDATA[<p>In the fast-paced realm of software engineering, adaptability and versatility are key. Meet a results-driven Software Engineer with a diverse background spanning Finance, Product, and Agriculture domains. Armed with ~6 years of industry experience and a Master’s degree in Computer Science Engineering with a specialization in Data Science, this engineer has navigated through various roles, demonstrating expertise in both individual contributor and managerial capacities.</p>
+<p>And so, the symphony of agile code refactoring echoed through the digital corridors, leaving behind a legacy of innovation and efficiency in the ever-evolving landscape of backend development.</p>]]></content><author><name>sonalithote</name></author><category term="General" /><summary type="html"><![CDATA[In the dynamic realm of backend development, where the heartbeat of a system is measured in lines of code, there exists the occasional need for a revolutionary overhaul. This is the story of a relentless pursuit of excellence, a journey of agile code refactoring within the Python and Java tech stack.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/2560/600?image=733" /><media:content medium="image" url="https://picsum.photos/2560/600?image=733" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My journey from Java to Python</title><link href="http://localhost:4000/history/professional%20experience/2021/04/28/example-post-two/" rel="alternate" type="text/html" title="My journey from Java to Python" /><published>2021-04-28T00:00:00+01:00</published><updated>2021-04-28T00:00:00+01:00</updated><id>http://localhost:4000/history/professional%20experience/2021/04/28/example-post-two</id><content type="html" xml:base="http://localhost:4000/history/professional%20experience/2021/04/28/example-post-two/"><![CDATA[<p>In the fast-paced realm of software engineering, adaptability and versatility are key. Meet a results-driven Software Engineer with a diverse background spanning Finance, Product, and Agriculture domains. Armed with ~6 years of industry experience and a Master’s degree in Computer Science Engineering with a specialization in Data Science, this engineer has navigated through various roles, demonstrating expertise in both individual contributor and managerial capacities.</p>
 
 <!-- more -->
 <ul>
@@ -56,34 +645,1084 @@ With the commitment to fortify the system against future challenges, the enginee
 
 <p>In essence, the journey from Java to Python for this Software Engineer exemplifies a commitment to continuous learning and adaptability. From building enterprise-level applications in Java to orchestrating scalable ETL pipelines in Python, the engineer’s toolkit is comprehensive. Python, Java, Flask, Django, and a myriad of other technologies harmoniously coexist, creating a symphony of expertise that spans domains and enriches the tech landscape.</p>
 
-<p>As this seasoned Software Engineer actively seeks new opportunities, the journey from Java to Python stands as a testament to the ever-evolving nature of the tech industry and the engineer’s ability to navigate and thrive in this dynamic landscape.</p>]]></content><author><name>sonalithote</name></author><category term="History" /><category term="Professional experience" /><summary type="html"><![CDATA[In the fast-paced realm of software engineering, adaptability and versatility are key. Meet a results-driven Software Engineer with a diverse background spanning Finance, Product, and Agriculture domains. Armed with ~6 years of industry experience and a Master’s degree in Computer Science Engineering with a specialization in Data Science, this engineer has navigated through various roles, demonstrating expertise in both individual contributor and managerial capacities.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Optimizing Kubernetes - Unveiling Solutions to the ‘Cold-Start</title><link href="http://localhost:4000/research/professional%20project/2016/08/27/example-post-one/" rel="alternate" type="text/html" title="Optimizing Kubernetes - Unveiling Solutions to the ‘Cold-Start" /><published>2016-08-27T00:00:00+01:00</published><updated>2016-08-27T00:00:00+01:00</updated><id>http://localhost:4000/research/professional%20project/2016/08/27/example-post-one</id><content type="html" xml:base="http://localhost:4000/research/professional%20project/2016/08/27/example-post-one/"><![CDATA[<p>In the intricate world of containerized applications, the persistent challenge of the “cold-start” problem has spurred innovative minds to delve deep into the heart of Kubernetes clusters. This blog unveils the journey of a dedicated engineer who, with a keen focus on latency issues, has not only identified but significantly alleviated performance bottlenecks within Kubernetes environments.</p>
+<p>As this seasoned Software Engineer actively seeks new opportunities, the journey from Java to Python stands as a testament to the ever-evolving nature of the tech industry and the engineer’s ability to navigate and thrive in this dynamic landscape.</p>]]></content><author><name>sonalithote</name></author><category term="History" /><category term="Professional experience" /><summary type="html"><![CDATA[In the fast-paced realm of software engineering, adaptability and versatility are key. Meet a results-driven Software Engineer with a diverse background spanning Finance, Product, and Agriculture domains. Armed with ~6 years of industry experience and a Master’s degree in Computer Science Engineering with a specialization in Data Science, this engineer has navigated through various roles, demonstrating expertise in both individual contributor and managerial capacities.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Traffic Signs Detection</title><link href="http://localhost:4000/ml_project/2021/03/22/traffic-signs-detection/" rel="alternate" type="text/html" title="Traffic Signs Detection" /><published>2021-03-22T00:00:00+00:00</published><updated>2021-03-22T00:00:00+00:00</updated><id>http://localhost:4000/ml_project/2021/03/22/traffic-signs-detection</id><content type="html" xml:base="http://localhost:4000/ml_project/2021/03/22/traffic-signs-detection/"><![CDATA[<h1 id="traffic-signs-detection-with-opencv--keras">Traffic Signs Detection with OpenCV &amp; Keras</h1>
 
-<!-- more -->
-
-<ul>
-  <li>Decoding the ‘Cold-Start’ Challenge</li>
-</ul>
-
-<p>The first chapter of this narrative revolves around addressing the notorious “cold-start” problem that plagues containerized applications. Through meticulous analysis of latency issues within Kubernetes clusters, our intrepid engineer identified key pain points and embarked on a mission to revolutionize performance.</p>
+<p>Leveraging <strong>YOLO v3</strong>, <strong>OpenCV</strong>, and <strong>Keras</strong> for traffic signs detection offers a cutting-edge solution in computer vision, crucial for enhancing autonomous vehicle technologies. <strong>YOLO v3</strong> excels in real-time object detection, identifying traffic signs quickly and accurately. <strong>OpenCV</strong> aids in processing these images, while <strong>Keras</strong> specializes in classifying the detected signs into their respective categories, such as speed limits and stop signs. This combination delivers a powerful, efficient system for traffic sign detection, crucial for improving the safety and reliability of autonomous navigation systems.</p>
 
 <ul>
-  <li>The Art of Optimization: Container Preload, Caching, and Eviction</li>
+  <li>Initially, a model trained within the Darknet framework utilizes the OpenCV dnn library to <strong>identify Traffic Signs across four distinct categories</strong>.</li>
+  <li>Subsequently, another model, developed using Keras, <strong>classifies</strong> the segmented portions of these Traffic Signs into one of <strong>43 different classes</strong>.</li>
+  <li>Although the results are currently experimental, they hold potential for future enhancements.</li>
 </ul>
 
-<p>A pivotal moment in this journey was the groundbreaking achievement of vastly improved performance through the optimization of container preload, caching, and eviction. By fine-tuning these elements based on the specific request patterns of machine learning applications, our engineer paved the way for a more responsive and efficient Kubernetes ecosystem.</p>
+<p>Example of detections on video are shown below. <strong>Trained weights</strong> can be found in the course mentioned above.</p>
 
-<ul>
-  <li>Innovation Unleashed: K3s Kubernetes Application Framework</li>
-</ul>
+<p><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fbcdae0b57021d6ac3e86a9aa2e8c4b08%2Fts_detections.gif?generation=1581700736851192&amp;alt=media" alt="" /></p>
 
-<p>The narrative unfolds further with the development of a K3s Kubernetes-based application framework designed specifically to address the unique challenges posed by mobile edge computing environments. This innovative framework not only hosts a diverse array of machine learning applications but also hones in on predicting client mobility while simultaneously optimizing container latency.</p>
+<h1 id="importing-required-libraries">Importing required libraries</h1>
 
-<ul>
-  <li>A Triumph on the K8s Stage: Boosting Performance to 60%</li>
-</ul>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># This Python 3 environment comes with many helpful analytics libraries installed
+# It is defined by the kaggle/python docker image: https://github.com/kaggle/docker-python
+</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span> <span class="c1"># linear algebra
+</span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="n">pd</span> <span class="c1"># data processing, CSV file I/O (e.g. pd.read_csv)
+</span><span class="kn">import</span> <span class="nn">cv2</span>
+<span class="kn">import</span> <span class="nn">time</span>
+<span class="kn">from</span> <span class="nn">timeit</span> <span class="kn">import</span> <span class="n">default_timer</span> <span class="k">as</span> <span class="n">timer</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
+<span class="kn">import</span> <span class="nn">pickle</span>
 
-<p>The climax of this story takes place on a 3-node Kubernetes (K8s) cluster, where our engineer demonstrated unparalleled success. By hosting machine learning applications with an impressive 20 replicas each, the performance soared to a remarkable 60%. This feat not only surpassed expectations but outshone traditional cloud platforms, marking a significant milestone in the ongoing battle against latency in machine learning applications.</p>
+<span class="kn">from</span> <span class="nn">keras.models</span> <span class="kn">import</span> <span class="n">load_model</span>
 
-<p>As we conclude this journey into the intricacies of Kubernetes optimization for machine learning, it becomes evident that our dedicated engineer’s innovative solutions have far-reaching implications. The quest to conquer the “cold-start” problem has not only enhanced the performance of containerized applications but has also paved the way for future advancements in the dynamic landscape of Kubernetes and machine learning.</p>
+<span class="c1"># Input data files are available in the "../input/" directory.
+# For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
+</span>
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="c1"># for dirname, _, filenames in os.walk('../input'):
+#     for filename in filenames:
+#         print(os.path.join(dirname, filename))
+</span>
+<span class="k">print</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">listdir</span><span class="p">(</span><span class="s">'archive/'</span><span class="p">))</span>
 
-<p>In the ever-evolving realm of technology, where challenges breed innovation, this blog serves as a testament to the relentless pursuit of excellence. Our engineer’s journey from analyzing latency issues to optimizing container behaviors reflects the spirit of progress that defines the Kubernetes ecosystem, promising a brighter and more efficient future for containerized applications in the world of machine learning.</p>]]></content><author><name>sonalithote</name></author><category term="Research" /><category term="Professional project" /><summary type="html"><![CDATA[In the intricate world of containerized applications, the persistent challenge of the “cold-start” problem has spurred innovative minds to delve deep into the heart of Kubernetes clusters. This blog unveils the journey of a dedicated engineer who, with a keen focus on latency issues, has not only identified but significantly alleviated performance bottlenecks within Kubernetes environments.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/default-social-image.png" /><media:content medium="image" url="http://localhost:4000/assets/default-social-image.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<span class="c1"># Any results we write to the current directory are saved as output
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>['test.pickle', 'data0.pickle', 'data2.pickle', 'std_gray.pickle', 'mean_image_rgb.pickle', 'data6.pickle', 'datasets_preparing.py', 'data8.pickle', 'data4.pickle', 'label_names.csv', 'data1.pickle', 'valid.pickle', 'std_rgb.pickle', 'data3.pickle', 'train.pickle', 'data7.pickle', 'mean_image_gray.pickle', 'data5.pickle', 'labels.pickle']
+</code></pre></div></div>
+
+<h1 id="-loading-labels">📂 Loading <em>labels</em></h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Reading csv file with labels' names
+# Loading two columns [0, 1] into Pandas dataFrame
+</span><span class="n">labels</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s">'../input/traffic-signs-preprocessed/label_names.csv'</span><span class="p">)</span>
+
+<span class="c1"># Check point
+# Showing first 5 rows from the dataFrame
+</span><span class="k">print</span><span class="p">(</span><span class="n">labels</span><span class="p">.</span><span class="n">head</span><span class="p">())</span>
+<span class="k">print</span><span class="p">()</span>
+
+<span class="c1"># To locate by class number use one of the following
+# ***.iloc[0][1] - returns element on the 0 column and 1 row
+</span><span class="k">print</span><span class="p">(</span><span class="n">labels</span><span class="p">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">1</span><span class="p">])</span>  <span class="c1"># Speed limit (20km/h)
+# ***['SignName'][1] - returns element on the column with name 'SignName' and 1 row
+</span><span class="k">print</span><span class="p">(</span><span class="n">labels</span><span class="p">[</span><span class="s">'SignName'</span><span class="p">][</span><span class="mi">1</span><span class="p">])</span> <span class="c1"># Speed limit (30km/h)
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   ClassId              SignName
+0        0  Speed limit (20km/h)
+1        1  Speed limit (30km/h)
+2        2  Speed limit (50km/h)
+3        3  Speed limit (60km/h)
+4        4  Speed limit (70km/h)
+
+Speed limit (20km/h)
+Speed limit (30km/h)
+</code></pre></div></div>
+
+<h1 id="-loading-trained-keras-cnn-model-for-classification">📂 Loading trained Keras CNN model for Classification</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Loading trained CNN model to use it later when classifying from 4 groups into one of 43 classes
+</span><span class="n">model</span> <span class="o">=</span> <span class="n">load_model</span><span class="p">(</span><span class="s">'../input/traffic-signs-classification-with-cnn/model-23x23.h5'</span><span class="p">)</span>
+
+<span class="c1"># Loading mean image to use for preprocessing further
+# Opening file for reading in binary mode
+</span><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s">'../input/traffic-signs-preprocessed/mean_image_rgb.pickle'</span><span class="p">,</span> <span class="s">'rb'</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+    <span class="n">mean</span> <span class="o">=</span> <span class="n">pickle</span><span class="p">.</span><span class="n">load</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">'latin1'</span><span class="p">)</span>  <span class="c1"># dictionary type
+</span>    
+<span class="k">print</span><span class="p">(</span><span class="n">mean</span><span class="p">[</span><span class="s">'mean_image_rgb'</span><span class="p">].</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># (3, 32, 32)
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(3, 32, 32)
+</code></pre></div></div>
+
+<h1 id="-loading-yolo-v3-network-by-opencv-dnn-library">💠 Loading YOLO v3 network by OpenCV dnn library</h1>
+
+<h2 id="loading-trained-weights-and-cfg-file-into-the-network">Loading <em>trained weights</em> and <em>cfg file</em> into the Network</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Trained weights can be found in the course mentioned above
+</span><span class="n">path_to_weights</span> <span class="o">=</span> <span class="s">'../input/trained-traffic-signs-detector-based-on-yolo-v3/yolov3_ts_train_5000.weights'</span>
+<span class="n">path_to_cfg</span> <span class="o">=</span> <span class="s">'../input/traffic-signs-dataset-in-yolo-format/yolov3_ts_test.cfg'</span>
+
+<span class="c1"># Loading trained YOLO v3 weights and cfg configuration file by 'dnn' library from OpenCV
+</span><span class="n">network</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">readNetFromDarknet</span><span class="p">(</span><span class="n">path_to_cfg</span><span class="p">,</span> <span class="n">path_to_weights</span><span class="p">)</span>
+
+<span class="c1"># To use with GPU
+</span><span class="n">network</span><span class="p">.</span><span class="n">setPreferableBackend</span><span class="p">(</span><span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">DNN_BACKEND_OPENCV</span><span class="p">)</span>
+<span class="n">network</span><span class="p">.</span><span class="n">setPreferableTarget</span><span class="p">(</span><span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">DNN_TARGET_OPENCL_FP16</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<h2 id="getting-output-layers-where-detections-are-made">Getting <em>output layers</em> where detections are made</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Getting names of all YOLO v3 layers
+</span><span class="n">layers_all</span> <span class="o">=</span> <span class="n">network</span><span class="p">.</span><span class="n">getLayerNames</span><span class="p">()</span>
+
+<span class="c1"># Check point
+# print(layers_all)
+</span>
+<span class="c1"># Getting only detection YOLO v3 layers that are 82, 94 and 106
+</span><span class="n">layers_names_output</span> <span class="o">=</span> <span class="p">[</span><span class="n">layers_all</span><span class="p">[</span><span class="n">i</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">-</span> <span class="mi">1</span><span class="p">]</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">network</span><span class="p">.</span><span class="n">getUnconnectedOutLayers</span><span class="p">()]</span>
+
+<span class="c1"># Check point
+</span><span class="k">print</span><span class="p">()</span>
+<span class="k">print</span><span class="p">(</span><span class="n">layers_names_output</span><span class="p">)</span>  <span class="c1"># ['yolo_82', 'yolo_94', 'yolo_106']
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>['yolo_82', 'yolo_94', 'yolo_106']
+</code></pre></div></div>
+
+<h2 id="setting-probability-threshold-and-colour-for-bounding-boxes">Setting <em>probability</em>, <em>threshold</em> and <em>colour</em> for bounding boxes</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Minimum probability to eliminate weak detections
+</span><span class="n">probability_minimum</span> <span class="o">=</span> <span class="mf">0.2</span>
+
+<span class="c1"># Setting threshold to filtering weak bounding boxes by non-maximum suppression
+</span><span class="n">threshold</span> <span class="o">=</span> <span class="mf">0.2</span>
+
+<span class="c1"># Generating colours for bounding boxes
+# randint(low, high=None, size=None, dtype='l')
+</span><span class="n">colours</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">random</span><span class="p">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">255</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">labels</span><span class="p">),</span> <span class="mi">3</span><span class="p">),</span> <span class="n">dtype</span><span class="o">=</span><span class="s">'uint8'</span><span class="p">)</span>
+
+<span class="c1"># Check point
+</span><span class="k">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">colours</span><span class="p">))</span>  <span class="c1"># &lt;class 'numpy.ndarray'&gt;
+</span><span class="k">print</span><span class="p">(</span><span class="n">colours</span><span class="p">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># (43, 3)
+</span><span class="k">print</span><span class="p">(</span><span class="n">colours</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>  <span class="c1"># [25  65 200]
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;class 'numpy.ndarray'&gt;
+(43, 3)
+[203  49  61]
+</code></pre></div></div>
+
+<h1 id="-reading-input-video">🎬 Reading input video</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Reading video from a file by VideoCapture object
+# video = cv2.VideoCapture('../input/traffic-signs-dataset-in-yolo-format/traffic-sign-to-test.mp4')
+# video = cv2.VideoCapture('../input/videofortesting/ts_video_1.mp4')
+</span><span class="n">video</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">VideoCapture</span><span class="p">(</span><span class="s">'../input/videofortesting/ts_video_6.mp4'</span><span class="p">)</span>
+
+<span class="c1"># Writer that will be used to write processed frames
+</span><span class="n">writer</span> <span class="o">=</span> <span class="bp">None</span>
+
+<span class="c1"># Variables for spatial dimensions of the frames
+</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span> <span class="o">=</span> <span class="bp">None</span><span class="p">,</span> <span class="bp">None</span>
+
+</code></pre></div></div>
+
+<h1 id="-processing-frames-in-the-loop">➿ Processing frames in the loop</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
+
+<span class="c1"># Setting default size of plots
+</span><span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'figure.figsize'</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+
+<span class="c1"># Variable for counting total amount of frames
+</span><span class="n">f</span> <span class="o">=</span> <span class="mi">0</span>
+
+<span class="c1"># Variable for counting total processing time
+</span><span class="n">t</span> <span class="o">=</span> <span class="mi">0</span>
+
+<span class="c1"># Catching frames in the loop
+</span><span class="k">while</span> <span class="bp">True</span><span class="p">:</span>
+    <span class="c1"># Capturing frames one-by-one
+</span>    <span class="n">ret</span><span class="p">,</span> <span class="n">frame</span> <span class="o">=</span> <span class="n">video</span><span class="p">.</span><span class="n">read</span><span class="p">()</span>
+
+    <span class="c1"># If the frame was not retrieved
+</span>    <span class="k">if</span> <span class="ow">not</span> <span class="n">ret</span><span class="p">:</span>
+        <span class="k">break</span>
+       
+    <span class="c1"># Getting spatial dimensions of the frame for the first time
+</span>    <span class="k">if</span> <span class="n">w</span> <span class="ow">is</span> <span class="bp">None</span> <span class="ow">or</span> <span class="n">h</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
+        <span class="c1"># Slicing two elements from tuple
+</span>        <span class="n">h</span><span class="p">,</span> <span class="n">w</span> <span class="o">=</span> <span class="n">frame</span><span class="p">.</span><span class="n">shape</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span>
+
+    <span class="c1"># Blob from current frame
+</span>    <span class="n">blob</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">blobFromImage</span><span class="p">(</span><span class="n">frame</span><span class="p">,</span> <span class="mi">1</span> <span class="o">/</span> <span class="mf">255.0</span><span class="p">,</span> <span class="p">(</span><span class="mi">416</span><span class="p">,</span> <span class="mi">416</span><span class="p">),</span> <span class="n">swapRB</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">crop</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+
+    <span class="c1"># Forward pass with blob through output layers
+</span>    <span class="n">network</span><span class="p">.</span><span class="n">setInput</span><span class="p">(</span><span class="n">blob</span><span class="p">)</span>
+    <span class="n">start</span> <span class="o">=</span> <span class="n">time</span><span class="p">.</span><span class="n">time</span><span class="p">()</span>
+    <span class="n">output_from_network</span> <span class="o">=</span> <span class="n">network</span><span class="p">.</span><span class="n">forward</span><span class="p">(</span><span class="n">layers_names_output</span><span class="p">)</span>
+    <span class="n">end</span> <span class="o">=</span> <span class="n">time</span><span class="p">.</span><span class="n">time</span><span class="p">()</span>
+
+    <span class="c1"># Increasing counters
+</span>    <span class="n">f</span> <span class="o">+=</span> <span class="mi">1</span>
+    <span class="n">t</span> <span class="o">+=</span> <span class="n">end</span> <span class="o">-</span> <span class="n">start</span>
+
+    <span class="c1"># Spent time for current frame
+</span>    <span class="k">print</span><span class="p">(</span><span class="s">'Frame number {0} took {1:.5f} seconds'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">end</span> <span class="o">-</span> <span class="n">start</span><span class="p">))</span>
+
+    <span class="c1"># Lists for detected bounding boxes, confidences and class's number
+</span>    <span class="n">bounding_boxes</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="n">confidences</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="n">class_numbers</span> <span class="o">=</span> <span class="p">[]</span>
+
+    <span class="c1"># Going through all output layers after feed forward pass
+</span>    <span class="k">for</span> <span class="n">result</span> <span class="ow">in</span> <span class="n">output_from_network</span><span class="p">:</span>
+        <span class="c1"># Going through all detections from current output layer
+</span>        <span class="k">for</span> <span class="n">detected_objects</span> <span class="ow">in</span> <span class="n">result</span><span class="p">:</span>
+            <span class="c1"># Getting 80 classes' probabilities for current detected object
+</span>            <span class="n">scores</span> <span class="o">=</span> <span class="n">detected_objects</span><span class="p">[</span><span class="mi">5</span><span class="p">:]</span>
+            <span class="c1"># Getting index of the class with the maximum value of probability
+</span>            <span class="n">class_current</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">scores</span><span class="p">)</span>
+            <span class="c1"># Getting value of probability for defined class
+</span>            <span class="n">confidence_current</span> <span class="o">=</span> <span class="n">scores</span><span class="p">[</span><span class="n">class_current</span><span class="p">]</span>
+
+            <span class="c1"># Eliminating weak predictions by minimum probability
+</span>            <span class="k">if</span> <span class="n">confidence_current</span> <span class="o">&gt;</span> <span class="n">probability_minimum</span><span class="p">:</span>
+                <span class="c1"># Scaling bounding box coordinates to the initial frame size
+</span>                <span class="n">box_current</span> <span class="o">=</span> <span class="n">detected_objects</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">]</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="n">array</span><span class="p">([</span><span class="n">w</span><span class="p">,</span> <span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">,</span> <span class="n">h</span><span class="p">])</span>
+
+                <span class="c1"># Getting top left corner coordinates
+</span>                <span class="n">x_center</span><span class="p">,</span> <span class="n">y_center</span><span class="p">,</span> <span class="n">box_width</span><span class="p">,</span> <span class="n">box_height</span> <span class="o">=</span> <span class="n">box_current</span>
+                <span class="n">x_min</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">x_center</span> <span class="o">-</span> <span class="p">(</span><span class="n">box_width</span> <span class="o">/</span> <span class="mi">2</span><span class="p">))</span>
+                <span class="n">y_min</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">y_center</span> <span class="o">-</span> <span class="p">(</span><span class="n">box_height</span> <span class="o">/</span> <span class="mi">2</span><span class="p">))</span>
+
+                <span class="c1"># Adding results into prepared lists
+</span>                <span class="n">bounding_boxes</span><span class="p">.</span><span class="n">append</span><span class="p">([</span><span class="n">x_min</span><span class="p">,</span> <span class="n">y_min</span><span class="p">,</span> <span class="nb">int</span><span class="p">(</span><span class="n">box_width</span><span class="p">),</span> <span class="nb">int</span><span class="p">(</span><span class="n">box_height</span><span class="p">)])</span>
+                <span class="n">confidences</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="nb">float</span><span class="p">(</span><span class="n">confidence_current</span><span class="p">))</span>
+                <span class="n">class_numbers</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">class_current</span><span class="p">)</span>
+                
+
+    <span class="c1"># Implementing non-maximum suppression of given bounding boxes
+</span>    <span class="n">results</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">NMSBoxes</span><span class="p">(</span><span class="n">bounding_boxes</span><span class="p">,</span> <span class="n">confidences</span><span class="p">,</span> <span class="n">probability_minimum</span><span class="p">,</span> <span class="n">threshold</span><span class="p">)</span>
+
+    <span class="c1"># Checking if there is any detected object been left
+</span>    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">results</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="c1"># Going through indexes of results
+</span>        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">results</span><span class="p">.</span><span class="n">flatten</span><span class="p">():</span>
+            <span class="c1"># Bounding box coordinates, its width and height
+</span>            <span class="n">x_min</span><span class="p">,</span> <span class="n">y_min</span> <span class="o">=</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">0</span><span class="p">],</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span>
+            <span class="n">box_width</span><span class="p">,</span> <span class="n">box_height</span> <span class="o">=</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">2</span><span class="p">],</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">3</span><span class="p">]</span>
+            
+            
+            <span class="c1"># Cut fragment with Traffic Sign
+</span>            <span class="n">c_ts</span> <span class="o">=</span> <span class="n">frame</span><span class="p">[</span><span class="n">y_min</span><span class="p">:</span><span class="n">y_min</span><span class="o">+</span><span class="nb">int</span><span class="p">(</span><span class="n">box_height</span><span class="p">),</span> <span class="n">x_min</span><span class="p">:</span><span class="n">x_min</span><span class="o">+</span><span class="nb">int</span><span class="p">(</span><span class="n">box_width</span><span class="p">),</span> <span class="p">:]</span>
+            <span class="c1"># print(c_ts.shape)
+</span>            
+            <span class="k">if</span> <span class="n">c_ts</span><span class="p">.</span><span class="n">shape</span><span class="p">[:</span><span class="mi">1</span><span class="p">]</span> <span class="o">==</span> <span class="p">(</span><span class="mi">0</span><span class="p">,)</span> <span class="ow">or</span> <span class="n">c_ts</span><span class="p">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="mi">2</span><span class="p">]</span> <span class="o">==</span> <span class="p">(</span><span class="mi">0</span><span class="p">,):</span>
+                <span class="k">pass</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="c1"># Getting preprocessed blob with Traffic Sign of needed shape
+</span>                <span class="n">blob_ts</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">blobFromImage</span><span class="p">(</span><span class="n">c_ts</span><span class="p">,</span> <span class="mi">1</span> <span class="o">/</span> <span class="mf">255.0</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="p">(</span><span class="mi">32</span><span class="p">,</span> <span class="mi">32</span><span class="p">),</span> <span class="n">swapRB</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">crop</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+                <span class="n">blob_ts</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">blob_ts</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="p">:,</span> <span class="p">:,</span> <span class="p">:]</span> <span class="o">-</span> <span class="n">mean</span><span class="p">[</span><span class="s">'mean_image_rgb'</span><span class="p">]</span>
+                <span class="n">blob_ts</span> <span class="o">=</span> <span class="n">blob_ts</span><span class="p">.</span><span class="n">transpose</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+                <span class="c1"># plt.imshow(blob_ts[0, :, :, :])
+</span>                <span class="c1"># plt.show()
+</span>
+                <span class="c1"># Feeding to the Keras CNN model to get predicted label among 43 classes
+</span>                <span class="n">scores</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">predict</span><span class="p">(</span><span class="n">blob_ts</span><span class="p">)</span>
+
+                <span class="c1"># Scores is given for image with 43 numbers of predictions for each class
+</span>                <span class="c1"># Getting only one class with maximum value
+</span>                <span class="n">prediction</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">scores</span><span class="p">)</span>
+                <span class="c1"># print(labels['SignName'][prediction])
+</span>
+
+                <span class="c1"># Colour for current bounding box
+</span>                <span class="n">colour_box_current</span> <span class="o">=</span> <span class="n">colours</span><span class="p">[</span><span class="n">class_numbers</span><span class="p">[</span><span class="n">i</span><span class="p">]].</span><span class="n">tolist</span><span class="p">()</span>
+
+                <span class="c1"># Drawing bounding box on the original current frame
+</span>                <span class="n">cv2</span><span class="p">.</span><span class="n">rectangle</span><span class="p">(</span><span class="n">frame</span><span class="p">,</span> <span class="p">(</span><span class="n">x_min</span><span class="p">,</span> <span class="n">y_min</span><span class="p">),</span>
+                              <span class="p">(</span><span class="n">x_min</span> <span class="o">+</span> <span class="n">box_width</span><span class="p">,</span> <span class="n">y_min</span> <span class="o">+</span> <span class="n">box_height</span><span class="p">),</span>
+                              <span class="n">colour_box_current</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+
+                <span class="c1"># Preparing text with label and confidence for current bounding box
+</span>                <span class="n">text_box_current</span> <span class="o">=</span> <span class="s">'{}: {:.4f}'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">labels</span><span class="p">[</span><span class="s">'SignName'</span><span class="p">][</span><span class="n">prediction</span><span class="p">],</span>
+                                                       <span class="n">confidences</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+
+                <span class="c1"># Putting text with label and confidence on the original image
+</span>                <span class="n">cv2</span><span class="p">.</span><span class="n">putText</span><span class="p">(</span><span class="n">frame</span><span class="p">,</span> <span class="n">text_box_current</span><span class="p">,</span> <span class="p">(</span><span class="n">x_min</span><span class="p">,</span> <span class="n">y_min</span> <span class="o">-</span> <span class="mi">5</span><span class="p">),</span>
+                            <span class="n">cv2</span><span class="p">.</span><span class="n">FONT_HERSHEY_SIMPLEX</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="n">colour_box_current</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+
+
+    <span class="c1"># Initializing writer only once
+</span>    <span class="k">if</span> <span class="n">writer</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
+        <span class="n">fourcc</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">VideoWriter_fourcc</span><span class="p">(</span><span class="o">*</span><span class="s">'mp4v'</span><span class="p">)</span>
+
+        <span class="c1"># Writing current processed frame into the video file
+</span>        <span class="n">writer</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">VideoWriter</span><span class="p">(</span><span class="s">'result.mp4'</span><span class="p">,</span> <span class="n">fourcc</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span>
+                                 <span class="p">(</span><span class="n">frame</span><span class="p">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">frame</span><span class="p">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]),</span> <span class="bp">True</span><span class="p">)</span>
+
+    <span class="c1"># Write processed current frame to the file
+</span>    <span class="n">writer</span><span class="p">.</span><span class="n">write</span><span class="p">(</span><span class="n">frame</span><span class="p">)</span>
+
+
+<span class="c1"># Releasing video reader and writer
+</span><span class="n">video</span><span class="p">.</span><span class="n">release</span><span class="p">()</span>
+<span class="n">writer</span><span class="p">.</span><span class="n">release</span><span class="p">()</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Frame number 1 took 5.52782 seconds
+Frame number 2 took 0.30848 seconds
+Frame number 3 took 0.28469 seconds
+Frame number 4 took 0.28405 seconds
+Frame number 5 took 0.28431 seconds
+Frame number 6 took 0.28376 seconds
+Frame number 7 took 0.28409 seconds
+Frame number 8 took 0.28311 seconds
+Frame number 9 took 0.28223 seconds
+Frame number 10 took 0.28190 seconds
+Frame number 11 took 0.28196 seconds
+Frame number 12 took 0.28338 seconds
+Frame number 13 took 0.28229 seconds
+Frame number 14 took 0.28356 seconds
+Frame number 15 took 0.28600 seconds
+Frame number 16 took 0.29676 seconds
+Frame number 17 took 0.28499 seconds
+Frame number 18 took 0.28229 seconds
+Frame number 19 took 0.28268 seconds
+Frame number 20 took 0.28224 seconds
+Frame number 21 took 0.28413 seconds
+Frame number 22 took 0.28356 seconds
+Frame number 23 took 0.28463 seconds
+Frame number 24 took 0.28319 seconds
+Frame number 25 took 0.28683 seconds
+Frame number 26 took 0.28725 seconds
+Frame number 27 took 0.28898 seconds
+Frame number 28 took 0.28659 seconds
+Frame number 29 took 0.28389 seconds
+Frame number 30 took 0.28378 seconds
+Frame number 31 took 0.28475 seconds
+Frame number 32 took 0.28251 seconds
+Frame number 33 took 0.28269 seconds
+Frame number 34 took 0.28348 seconds
+Frame number 35 took 0.28382 seconds
+Frame number 36 took 0.28517 seconds
+Frame number 37 took 0.28654 seconds
+Frame number 38 took 0.28655 seconds
+Frame number 39 took 0.28563 seconds
+Frame number 40 took 0.28403 seconds
+Frame number 41 took 0.28611 seconds
+Frame number 42 took 0.28182 seconds
+Frame number 43 took 0.29107 seconds
+Frame number 44 took 0.28453 seconds
+Frame number 45 took 0.28377 seconds
+Frame number 46 took 0.28447 seconds
+Frame number 47 took 0.28513 seconds
+Frame number 48 took 0.28379 seconds
+Frame number 49 took 0.28776 seconds
+Frame number 50 took 0.28735 seconds
+Frame number 51 took 0.28501 seconds
+Frame number 52 took 0.28487 seconds
+Frame number 53 took 0.28414 seconds
+Frame number 54 took 0.28307 seconds
+Frame number 55 took 0.28253 seconds
+Frame number 56 took 0.28466 seconds
+Frame number 57 took 0.28470 seconds
+Frame number 58 took 0.28420 seconds
+Frame number 59 took 0.28372 seconds
+Frame number 60 took 0.28218 seconds
+Frame number 61 took 0.28171 seconds
+Frame number 62 took 0.28202 seconds
+Frame number 63 took 0.28421 seconds
+Frame number 64 took 0.28256 seconds
+Frame number 65 took 0.28365 seconds
+Frame number 66 took 0.28422 seconds
+Frame number 67 took 0.28526 seconds
+Frame number 68 took 0.28542 seconds
+Frame number 69 took 0.28809 seconds
+Frame number 70 took 0.30996 seconds
+Frame number 71 took 0.39311 seconds
+Frame number 72 took 0.29010 seconds
+Frame number 73 took 0.28246 seconds
+Frame number 74 took 0.28550 seconds
+Frame number 75 took 0.28487 seconds
+Frame number 76 took 0.28557 seconds
+Frame number 77 took 0.28503 seconds
+Frame number 78 took 0.28439 seconds
+Frame number 79 took 0.28619 seconds
+Frame number 80 took 0.28490 seconds
+Frame number 81 took 0.28697 seconds
+Frame number 82 took 0.28585 seconds
+Frame number 83 took 0.28697 seconds
+Frame number 84 took 0.28652 seconds
+Frame number 85 took 0.28533 seconds
+Frame number 86 took 0.28449 seconds
+Frame number 87 took 0.28467 seconds
+Frame number 88 took 0.28317 seconds
+Frame number 89 took 0.28570 seconds
+Frame number 90 took 0.28561 seconds
+Frame number 91 took 0.28517 seconds
+Frame number 92 took 0.28556 seconds
+Frame number 93 took 0.28932 seconds
+Frame number 94 took 0.28604 seconds
+Frame number 95 took 0.28409 seconds
+Frame number 96 took 0.29276 seconds
+Frame number 97 took 0.28508 seconds
+Frame number 98 took 0.28641 seconds
+Frame number 99 took 0.28600 seconds
+Frame number 100 took 0.28778 seconds
+Frame number 101 took 0.28482 seconds
+Frame number 102 took 0.28302 seconds
+Frame number 103 took 0.28462 seconds
+Frame number 104 took 0.28550 seconds
+Frame number 105 took 0.28799 seconds
+Frame number 106 took 0.28656 seconds
+Frame number 107 took 0.28632 seconds
+Frame number 108 took 0.28320 seconds
+Frame number 109 took 0.28345 seconds
+Frame number 110 took 0.28199 seconds
+Frame number 111 took 0.28399 seconds
+Frame number 112 took 0.28442 seconds
+Frame number 113 took 0.28563 seconds
+Frame number 114 took 0.28655 seconds
+Frame number 115 took 0.28611 seconds
+Frame number 116 took 0.28686 seconds
+Frame number 117 took 0.28606 seconds
+Frame number 118 took 0.28554 seconds
+Frame number 119 took 0.28580 seconds
+Frame number 120 took 0.28680 seconds
+Frame number 121 took 0.28843 seconds
+Frame number 122 took 0.29228 seconds
+Frame number 123 took 0.29320 seconds
+Frame number 124 took 0.28505 seconds
+Frame number 125 took 0.28440 seconds
+Frame number 126 took 0.28295 seconds
+Frame number 127 took 0.28477 seconds
+Frame number 128 took 0.28561 seconds
+Frame number 129 took 0.28503 seconds
+Frame number 130 took 0.28481 seconds
+Frame number 131 took 0.28668 seconds
+Frame number 132 took 0.28682 seconds
+Frame number 133 took 0.28491 seconds
+Frame number 134 took 0.28558 seconds
+Frame number 135 took 0.28669 seconds
+Frame number 136 took 0.28582 seconds
+Frame number 137 took 0.28552 seconds
+Frame number 138 took 0.28360 seconds
+Frame number 139 took 0.28467 seconds
+Frame number 140 took 0.28590 seconds
+Frame number 141 took 0.28458 seconds
+Frame number 142 took 0.28605 seconds
+Frame number 143 took 0.28407 seconds
+Frame number 144 took 0.28660 seconds
+Frame number 145 took 0.28519 seconds
+Frame number 146 took 0.28497 seconds
+Frame number 147 took 0.28567 seconds
+Frame number 148 took 0.28722 seconds
+Frame number 149 took 0.30203 seconds
+Frame number 150 took 0.39440 seconds
+Frame number 151 took 0.29713 seconds
+Frame number 152 took 0.28998 seconds
+Frame number 153 took 0.28315 seconds
+Frame number 154 took 0.28381 seconds
+Frame number 155 took 0.28484 seconds
+Frame number 156 took 0.28455 seconds
+Frame number 157 took 0.28462 seconds
+Frame number 158 took 0.28355 seconds
+Frame number 159 took 0.28561 seconds
+Frame number 160 took 0.28295 seconds
+Frame number 161 took 0.28152 seconds
+Frame number 162 took 0.28430 seconds
+Frame number 163 took 0.28459 seconds
+Frame number 164 took 0.28397 seconds
+Frame number 165 took 0.28378 seconds
+Frame number 166 took 0.28418 seconds
+Frame number 167 took 0.28647 seconds
+Frame number 168 took 0.28554 seconds
+Frame number 169 took 0.28408 seconds
+Frame number 170 took 0.28628 seconds
+Frame number 171 took 0.28269 seconds
+Frame number 172 took 0.28406 seconds
+Frame number 173 took 0.28388 seconds
+Frame number 174 took 0.28510 seconds
+Frame number 175 took 0.28671 seconds
+Frame number 176 took 0.29481 seconds
+Frame number 177 took 0.28572 seconds
+Frame number 178 took 0.28461 seconds
+Frame number 179 took 0.28354 seconds
+Frame number 180 took 0.28381 seconds
+Frame number 181 took 0.28487 seconds
+Frame number 182 took 0.28755 seconds
+Frame number 183 took 0.28590 seconds
+Frame number 184 took 0.28326 seconds
+Frame number 185 took 0.28332 seconds
+Frame number 186 took 0.28574 seconds
+Frame number 187 took 0.28746 seconds
+Frame number 188 took 0.28684 seconds
+Frame number 189 took 0.28440 seconds
+Frame number 190 took 0.28410 seconds
+Frame number 191 took 0.28283 seconds
+Frame number 192 took 0.28129 seconds
+Frame number 193 took 0.28304 seconds
+Frame number 194 took 0.28127 seconds
+Frame number 195 took 0.28551 seconds
+Frame number 196 took 0.28479 seconds
+Frame number 197 took 0.28270 seconds
+Frame number 198 took 0.28455 seconds
+Frame number 199 took 0.28374 seconds
+Frame number 200 took 0.28207 seconds
+Frame number 201 took 0.28154 seconds
+Frame number 202 took 0.28349 seconds
+Frame number 203 took 0.29308 seconds
+Frame number 204 took 0.28364 seconds
+Frame number 205 took 0.28461 seconds
+Frame number 206 took 0.28661 seconds
+Frame number 207 took 0.28589 seconds
+Frame number 208 took 0.28265 seconds
+Frame number 209 took 0.28450 seconds
+Frame number 210 took 0.28276 seconds
+Frame number 211 took 0.28015 seconds
+Frame number 212 took 0.28183 seconds
+Frame number 213 took 0.28343 seconds
+Frame number 214 took 0.28340 seconds
+Frame number 215 took 0.28382 seconds
+Frame number 216 took 0.28503 seconds
+Frame number 217 took 0.28606 seconds
+Frame number 218 took 0.28351 seconds
+Frame number 219 took 0.28184 seconds
+Frame number 220 took 0.28242 seconds
+Frame number 221 took 0.28519 seconds
+Frame number 222 took 0.28396 seconds
+Frame number 223 took 0.29134 seconds
+Frame number 224 took 0.28385 seconds
+Frame number 225 took 0.28655 seconds
+Frame number 226 took 0.28653 seconds
+Frame number 227 took 0.28642 seconds
+Frame number 228 took 0.29651 seconds
+Frame number 229 took 0.29838 seconds
+Frame number 230 took 0.38873 seconds
+Frame number 231 took 0.28324 seconds
+Frame number 232 took 0.28234 seconds
+Frame number 233 took 0.28309 seconds
+Frame number 234 took 0.28333 seconds
+Frame number 235 took 0.28514 seconds
+Frame number 236 took 0.28152 seconds
+Frame number 237 took 0.28373 seconds
+Frame number 238 took 0.28316 seconds
+Frame number 239 took 0.28187 seconds
+Frame number 240 took 0.28413 seconds
+Frame number 241 took 0.28420 seconds
+Frame number 242 took 0.28467 seconds
+Frame number 243 took 0.28419 seconds
+Frame number 244 took 0.28625 seconds
+Frame number 245 took 0.28635 seconds
+Frame number 246 took 0.28186 seconds
+Frame number 247 took 0.28371 seconds
+Frame number 248 took 0.28258 seconds
+Frame number 249 took 0.28080 seconds
+Frame number 250 took 0.28274 seconds
+Frame number 251 took 0.28412 seconds
+Frame number 252 took 0.28426 seconds
+Frame number 253 took 0.28682 seconds
+Frame number 254 took 0.28167 seconds
+Frame number 255 took 0.28321 seconds
+Frame number 256 took 0.29472 seconds
+Frame number 257 took 0.28530 seconds
+Frame number 258 took 0.28456 seconds
+Frame number 259 took 0.28545 seconds
+Frame number 260 took 0.28461 seconds
+Frame number 261 took 0.28277 seconds
+Frame number 262 took 0.28404 seconds
+Frame number 263 took 0.28606 seconds
+Frame number 264 took 0.28602 seconds
+Frame number 265 took 0.28313 seconds
+Frame number 266 took 0.28395 seconds
+Frame number 267 took 0.28183 seconds
+Frame number 268 took 0.28174 seconds
+Frame number 269 took 0.28410 seconds
+Frame number 270 took 0.28458 seconds
+Frame number 271 took 0.28675 seconds
+Frame number 272 took 0.28688 seconds
+Frame number 273 took 0.28503 seconds
+Frame number 274 took 0.28500 seconds
+Frame number 275 took 0.28310 seconds
+Frame number 276 took 0.28119 seconds
+Frame number 277 took 0.28336 seconds
+Frame number 278 took 0.28553 seconds
+Frame number 279 took 0.28352 seconds
+Frame number 280 took 0.28545 seconds
+Frame number 281 took 0.28195 seconds
+Frame number 282 took 0.28735 seconds
+Frame number 283 took 0.29508 seconds
+Frame number 284 took 0.28249 seconds
+Frame number 285 took 0.28274 seconds
+Frame number 286 took 0.28265 seconds
+Frame number 287 took 0.28077 seconds
+Frame number 288 took 0.28335 seconds
+Frame number 289 took 0.28146 seconds
+Frame number 290 took 0.28254 seconds
+Frame number 291 took 0.28325 seconds
+Frame number 292 took 0.28674 seconds
+Frame number 293 took 0.28403 seconds
+Frame number 294 took 0.28442 seconds
+Frame number 295 took 0.28130 seconds
+Frame number 296 took 0.28412 seconds
+Frame number 297 took 0.28505 seconds
+Frame number 298 took 0.28399 seconds
+Frame number 299 took 0.28320 seconds
+Frame number 300 took 0.28322 seconds
+Frame number 301 took 0.28711 seconds
+Frame number 302 took 0.28616 seconds
+Frame number 303 took 0.28305 seconds
+Frame number 304 took 0.28422 seconds
+Frame number 305 took 0.28305 seconds
+Frame number 306 took 0.28035 seconds
+Frame number 307 took 0.29199 seconds
+Frame number 308 took 0.28817 seconds
+Frame number 309 took 0.29844 seconds
+Frame number 310 took 0.29078 seconds
+Frame number 311 took 0.28241 seconds
+Frame number 312 took 0.28323 seconds
+Frame number 313 took 0.28173 seconds
+Frame number 314 took 0.28147 seconds
+Frame number 315 took 0.28425 seconds
+Frame number 316 took 0.28448 seconds
+Frame number 317 took 0.28600 seconds
+Frame number 318 took 0.28327 seconds
+Frame number 319 took 0.28452 seconds
+Frame number 320 took 0.28637 seconds
+Frame number 321 took 0.28627 seconds
+Frame number 322 took 0.28629 seconds
+Frame number 323 took 0.28339 seconds
+Frame number 324 took 0.28367 seconds
+Frame number 325 took 0.28587 seconds
+Frame number 326 took 0.28509 seconds
+Frame number 327 took 0.28538 seconds
+Frame number 328 took 0.28441 seconds
+Frame number 329 took 0.28467 seconds
+Frame number 330 took 0.28634 seconds
+Frame number 331 took 0.28423 seconds
+Frame number 332 took 0.28498 seconds
+Frame number 333 took 0.28668 seconds
+Frame number 334 took 0.28574 seconds
+Frame number 335 took 0.28656 seconds
+Frame number 336 took 0.29757 seconds
+Frame number 337 took 0.28516 seconds
+Frame number 338 took 0.28614 seconds
+Frame number 339 took 0.28451 seconds
+Frame number 340 took 0.28847 seconds
+Frame number 341 took 0.28675 seconds
+Frame number 342 took 0.28578 seconds
+Frame number 343 took 0.28292 seconds
+Frame number 344 took 0.28233 seconds
+Frame number 345 took 0.28436 seconds
+Frame number 346 took 0.28223 seconds
+Frame number 347 took 0.28319 seconds
+Frame number 348 took 0.28307 seconds
+Frame number 349 took 0.28340 seconds
+Frame number 350 took 0.28312 seconds
+Frame number 351 took 0.28410 seconds
+Frame number 352 took 0.28347 seconds
+Frame number 353 took 0.28253 seconds
+Frame number 354 took 0.28212 seconds
+Frame number 355 took 0.28306 seconds
+Frame number 356 took 0.28282 seconds
+Frame number 357 took 0.28295 seconds
+Frame number 358 took 0.28414 seconds
+Frame number 359 took 0.28654 seconds
+Frame number 360 took 0.28786 seconds
+Frame number 361 took 0.28524 seconds
+Frame number 362 took 0.29588 seconds
+Frame number 363 took 0.29353 seconds
+Frame number 364 took 0.28240 seconds
+Frame number 365 took 0.28102 seconds
+Frame number 366 took 0.28119 seconds
+Frame number 367 took 0.28203 seconds
+Frame number 368 took 0.28123 seconds
+Frame number 369 took 0.28110 seconds
+Frame number 370 took 0.28499 seconds
+Frame number 371 took 0.28321 seconds
+Frame number 372 took 0.28100 seconds
+Frame number 373 took 0.28231 seconds
+Frame number 374 took 0.28319 seconds
+Frame number 375 took 0.28479 seconds
+Frame number 376 took 0.28427 seconds
+Frame number 377 took 0.28608 seconds
+Frame number 378 took 0.28534 seconds
+Frame number 379 took 0.28462 seconds
+Frame number 380 took 0.28592 seconds
+Frame number 381 took 0.28679 seconds
+Frame number 382 took 0.28434 seconds
+Frame number 383 took 0.28003 seconds
+Frame number 384 took 0.28291 seconds
+Frame number 385 took 0.31018 seconds
+Frame number 386 took 0.29572 seconds
+Frame number 387 took 0.29071 seconds
+Frame number 388 took 0.28215 seconds
+Frame number 389 took 0.29660 seconds
+Frame number 390 took 0.29125 seconds
+Frame number 391 took 0.28239 seconds
+Frame number 392 took 0.28199 seconds
+Frame number 393 took 0.28238 seconds
+Frame number 394 took 0.28447 seconds
+Frame number 395 took 0.28208 seconds
+Frame number 396 took 0.28237 seconds
+Frame number 397 took 0.28580 seconds
+Frame number 398 took 0.28642 seconds
+Frame number 399 took 0.28645 seconds
+Frame number 400 took 0.28367 seconds
+Frame number 401 took 0.28445 seconds
+Frame number 402 took 0.28423 seconds
+Frame number 403 took 0.28436 seconds
+Frame number 404 took 0.28554 seconds
+Frame number 405 took 0.28653 seconds
+Frame number 406 took 0.28459 seconds
+Frame number 407 took 0.28579 seconds
+Frame number 408 took 0.28109 seconds
+Frame number 409 took 0.28283 seconds
+Frame number 410 took 0.28278 seconds
+Frame number 411 took 0.28106 seconds
+Frame number 412 took 0.28101 seconds
+Frame number 413 took 0.28220 seconds
+Frame number 414 took 0.28197 seconds
+Frame number 415 took 0.28409 seconds
+Frame number 416 took 0.28440 seconds
+Frame number 417 took 0.29191 seconds
+Frame number 418 took 0.28376 seconds
+Frame number 419 took 0.28163 seconds
+Frame number 420 took 0.28463 seconds
+Frame number 421 took 0.28094 seconds
+Frame number 422 took 0.28145 seconds
+Frame number 423 took 0.28248 seconds
+Frame number 424 took 0.28267 seconds
+Frame number 425 took 0.28153 seconds
+Frame number 426 took 0.28141 seconds
+Frame number 427 took 0.28267 seconds
+Frame number 428 took 0.28160 seconds
+Frame number 429 took 0.28295 seconds
+Frame number 430 took 0.28292 seconds
+Frame number 431 took 0.28278 seconds
+Frame number 432 took 0.28456 seconds
+Frame number 433 took 0.28434 seconds
+Frame number 434 took 0.28545 seconds
+Frame number 435 took 0.28577 seconds
+Frame number 436 took 0.28626 seconds
+Frame number 437 took 0.28582 seconds
+Frame number 438 took 0.28445 seconds
+Frame number 439 took 0.28572 seconds
+Frame number 440 took 0.28439 seconds
+Frame number 441 took 0.28639 seconds
+Frame number 442 took 0.28399 seconds
+Frame number 443 took 0.28124 seconds
+Frame number 444 took 0.29253 seconds
+Frame number 445 took 0.28448 seconds
+Frame number 446 took 0.28451 seconds
+Frame number 447 took 0.28002 seconds
+Frame number 448 took 0.28403 seconds
+Frame number 449 took 0.28084 seconds
+Frame number 450 took 0.28517 seconds
+Frame number 451 took 0.28547 seconds
+Frame number 452 took 0.28482 seconds
+Frame number 453 took 0.28425 seconds
+Frame number 454 took 0.28362 seconds
+Frame number 455 took 0.28363 seconds
+Frame number 456 took 0.28389 seconds
+Frame number 457 took 0.28525 seconds
+Frame number 458 took 0.28030 seconds
+Frame number 459 took 0.28581 seconds
+Frame number 460 took 0.28566 seconds
+Frame number 461 took 0.28429 seconds
+Frame number 462 took 0.28112 seconds
+Frame number 463 took 0.29488 seconds
+Frame number 464 took 0.28477 seconds
+Frame number 465 took 0.28046 seconds
+Frame number 466 took 0.28188 seconds
+Frame number 467 took 0.30430 seconds
+Frame number 468 took 0.29189 seconds
+Frame number 469 took 0.28744 seconds
+Frame number 470 took 0.29079 seconds
+Frame number 471 took 0.29167 seconds
+Frame number 472 took 0.28232 seconds
+Frame number 473 took 0.28225 seconds
+Frame number 474 took 0.28513 seconds
+Frame number 475 took 0.28421 seconds
+Frame number 476 took 0.28111 seconds
+Frame number 477 took 0.28141 seconds
+Frame number 478 took 0.28410 seconds
+Frame number 479 took 0.28299 seconds
+Frame number 480 took 0.28371 seconds
+Frame number 481 took 0.28478 seconds
+Frame number 482 took 0.28366 seconds
+Frame number 483 took 0.28398 seconds
+Frame number 484 took 0.28656 seconds
+Frame number 485 took 0.28441 seconds
+Frame number 486 took 0.28336 seconds
+Frame number 487 took 0.28206 seconds
+Frame number 488 took 0.28605 seconds
+Frame number 489 took 0.28500 seconds
+Frame number 490 took 0.28582 seconds
+Frame number 491 took 0.28510 seconds
+Frame number 492 took 0.28411 seconds
+Frame number 493 took 0.28051 seconds
+Frame number 494 took 0.28275 seconds
+Frame number 495 took 0.28497 seconds
+Frame number 496 took 0.28270 seconds
+Frame number 497 took 0.29587 seconds
+Frame number 498 took 0.28226 seconds
+Frame number 499 took 0.28232 seconds
+Frame number 500 took 0.28405 seconds
+Frame number 501 took 0.28243 seconds
+Frame number 502 took 0.28481 seconds
+Frame number 503 took 0.28029 seconds
+Frame number 504 took 0.27936 seconds
+Frame number 505 took 0.28082 seconds
+Frame number 506 took 0.28182 seconds
+Frame number 507 took 0.28221 seconds
+Frame number 508 took 0.28344 seconds
+Frame number 509 took 0.28629 seconds
+Frame number 510 took 0.28458 seconds
+Frame number 511 took 0.28489 seconds
+Frame number 512 took 0.28251 seconds
+Frame number 513 took 0.28448 seconds
+Frame number 514 took 0.28538 seconds
+Frame number 515 took 0.28534 seconds
+Frame number 516 took 0.28393 seconds
+Frame number 517 took 0.28128 seconds
+</code></pre></div></div>
+
+<h2 id="-fps-results">🏁 FPS results</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="s">'Total number of frames'</span><span class="p">,</span> <span class="n">f</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'Total amount of time {:.5f} seconds'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">t</span><span class="p">))</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'FPS:'</span><span class="p">,</span> <span class="nb">round</span><span class="p">((</span><span class="n">f</span> <span class="o">/</span> <span class="n">t</span><span class="p">),</span> <span class="mi">1</span><span class="p">))</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Total number of frames 517
+Total amount of time 152.90212 seconds
+FPS: 3.4
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Saving locally without committing
+</span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">FileLink</span>
+
+<span class="n">FileLink</span><span class="p">(</span><span class="s">'result.mp4'</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<p><a href="result.mp4" target="_blank">result.mp4</a><br /></p>
+
+<h1 id="-reading-input-images">🎈 Reading input images</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Reading image with OpenCV library
+# In this way image is opened already as numpy array
+# WARNING! OpenCV by default reads images in BGR format
+# image_BGR = cv2.imread('../input/videofortesting/traffic_sign.jpg')
+# image_BGR = cv2.imread('../input/videofortesting/ts_video_1_1.png')
+# image_BGR = cv2.imread('../input/videofortesting/ts_video_1_2.png')
+# image_BGR = cv2.imread('../input/videofortesting/ts_video_1_3.png')
+# image_BGR = cv2.imread('../input/videofortesting/ts_video_1_4.png')
+# image_BGR = cv2.imread('../input/videofortesting/ts_video_6_1.png')
+# image_BGR = cv2.imread('../input/videofortesting/ts_video_6_2.png')
+# image_BGR = cv2.imread('../input/videofortesting/ts_video_6_3.png')
+</span><span class="n">image_BGR</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">imread</span><span class="p">(</span><span class="s">'../input/videofortesting/ts_final_1.png'</span><span class="p">)</span>
+
+<span class="c1"># Check point
+# Showing image shape
+</span><span class="k">print</span><span class="p">(</span><span class="s">'Image shape:'</span><span class="p">,</span> <span class="n">image_BGR</span><span class="p">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># tuple of (731, 1092, 3)
+</span>
+<span class="c1"># Getting spatial dimension of input image
+</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span> <span class="o">=</span> <span class="n">image_BGR</span><span class="p">.</span><span class="n">shape</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span>  <span class="c1"># Slicing from tuple only first two elements
+</span>
+<span class="c1"># Check point
+# Showing height an width of image
+</span><span class="k">print</span><span class="p">(</span><span class="s">'Image height={0} and width={1}'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">))</span>  <span class="c1"># 731 1092
+</span>
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Image shape: (720, 1280, 3)
+Image height=720 and width=1280
+</code></pre></div></div>
+
+<h1 id="-processing-single-image">🧿 Processing single image</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Variable for counting total processing time
+</span><span class="n">t</span> <span class="o">=</span> <span class="mi">0</span>
+
+<span class="c1"># Blob from current frame
+</span><span class="n">blob</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">blobFromImage</span><span class="p">(</span><span class="n">image_BGR</span><span class="p">,</span> <span class="mi">1</span> <span class="o">/</span> <span class="mf">255.0</span><span class="p">,</span> <span class="p">(</span><span class="mi">416</span><span class="p">,</span> <span class="mi">416</span><span class="p">),</span> <span class="n">swapRB</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">crop</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+
+<span class="c1"># Forward pass with blob through output layers
+</span><span class="n">network</span><span class="p">.</span><span class="n">setInput</span><span class="p">(</span><span class="n">blob</span><span class="p">)</span>
+<span class="n">start</span> <span class="o">=</span> <span class="n">time</span><span class="p">.</span><span class="n">time</span><span class="p">()</span>
+<span class="n">output_from_network</span> <span class="o">=</span> <span class="n">network</span><span class="p">.</span><span class="n">forward</span><span class="p">(</span><span class="n">layers_names_output</span><span class="p">)</span>
+<span class="n">end</span> <span class="o">=</span> <span class="n">time</span><span class="p">.</span><span class="n">time</span><span class="p">()</span>
+
+<span class="c1"># Time
+</span><span class="n">t</span> <span class="o">+=</span> <span class="n">end</span> <span class="o">-</span> <span class="n">start</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'Total amount of time {:.5f} seconds'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">t</span><span class="p">))</span>
+
+<span class="c1"># Lists for detected bounding boxes, confidences and class's number
+</span><span class="n">bounding_boxes</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">confidences</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="n">class_numbers</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="c1"># Going through all output layers after feed forward pass
+</span><span class="k">for</span> <span class="n">result</span> <span class="ow">in</span> <span class="n">output_from_network</span><span class="p">:</span>
+    <span class="c1"># Going through all detections from current output layer
+</span>    <span class="k">for</span> <span class="n">detected_objects</span> <span class="ow">in</span> <span class="n">result</span><span class="p">:</span>
+        <span class="c1"># Getting 80 classes' probabilities for current detected object
+</span>        <span class="n">scores</span> <span class="o">=</span> <span class="n">detected_objects</span><span class="p">[</span><span class="mi">5</span><span class="p">:]</span>
+        <span class="c1"># Getting index of the class with the maximum value of probability
+</span>        <span class="n">class_current</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">scores</span><span class="p">)</span>
+        <span class="c1"># Getting value of probability for defined class
+</span>        <span class="n">confidence_current</span> <span class="o">=</span> <span class="n">scores</span><span class="p">[</span><span class="n">class_current</span><span class="p">]</span>
+
+        <span class="c1"># Eliminating weak predictions by minimum probability
+</span>        <span class="k">if</span> <span class="n">confidence_current</span> <span class="o">&gt;</span> <span class="n">probability_minimum</span><span class="p">:</span>
+            <span class="c1"># Scaling bounding box coordinates to the initial frame size
+</span>            <span class="n">box_current</span> <span class="o">=</span> <span class="n">detected_objects</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">]</span> <span class="o">*</span> <span class="n">np</span><span class="p">.</span><span class="n">array</span><span class="p">([</span><span class="n">w</span><span class="p">,</span> <span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">,</span> <span class="n">h</span><span class="p">])</span>
+
+            <span class="c1"># Getting top left corner coordinates
+</span>            <span class="n">x_center</span><span class="p">,</span> <span class="n">y_center</span><span class="p">,</span> <span class="n">box_width</span><span class="p">,</span> <span class="n">box_height</span> <span class="o">=</span> <span class="n">box_current</span>
+            <span class="n">x_min</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">x_center</span> <span class="o">-</span> <span class="p">(</span><span class="n">box_width</span> <span class="o">/</span> <span class="mi">2</span><span class="p">))</span>
+            <span class="n">y_min</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">y_center</span> <span class="o">-</span> <span class="p">(</span><span class="n">box_height</span> <span class="o">/</span> <span class="mi">2</span><span class="p">))</span>
+
+            <span class="c1"># Adding results into prepared lists
+</span>            <span class="n">bounding_boxes</span><span class="p">.</span><span class="n">append</span><span class="p">([</span><span class="n">x_min</span><span class="p">,</span> <span class="n">y_min</span><span class="p">,</span> <span class="nb">int</span><span class="p">(</span><span class="n">box_width</span><span class="p">),</span> <span class="nb">int</span><span class="p">(</span><span class="n">box_height</span><span class="p">)])</span>
+            <span class="n">confidences</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="nb">float</span><span class="p">(</span><span class="n">confidence_current</span><span class="p">))</span>
+            <span class="n">class_numbers</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">class_current</span><span class="p">)</span>
+                
+
+<span class="c1"># Implementing non-maximum suppression of given bounding boxes
+</span><span class="n">results</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">NMSBoxes</span><span class="p">(</span><span class="n">bounding_boxes</span><span class="p">,</span> <span class="n">confidences</span><span class="p">,</span> <span class="n">probability_minimum</span><span class="p">,</span> <span class="n">threshold</span><span class="p">)</span>
+
+<span class="c1"># Checking if there is any detected object been left
+</span><span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">results</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+    <span class="c1"># Going through indexes of results
+</span>    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">results</span><span class="p">.</span><span class="n">flatten</span><span class="p">():</span>
+        <span class="c1"># Bounding box coordinates, its width and height
+</span>        <span class="n">x_min</span><span class="p">,</span> <span class="n">y_min</span> <span class="o">=</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">0</span><span class="p">],</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span>
+        <span class="n">box_width</span><span class="p">,</span> <span class="n">box_height</span> <span class="o">=</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">2</span><span class="p">],</span> <span class="n">bounding_boxes</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="mi">3</span><span class="p">]</span>
+            
+            
+        <span class="c1"># Cut fragment with Traffic Sign
+</span>        <span class="n">c_ts</span> <span class="o">=</span> <span class="n">image_BGR</span><span class="p">[</span><span class="n">y_min</span><span class="p">:</span><span class="n">y_min</span><span class="o">+</span><span class="nb">int</span><span class="p">(</span><span class="n">box_height</span><span class="p">),</span> <span class="n">x_min</span><span class="p">:</span><span class="n">x_min</span><span class="o">+</span><span class="nb">int</span><span class="p">(</span><span class="n">box_width</span><span class="p">),</span> <span class="p">:]</span>
+        <span class="c1"># print(c_ts.shape)
+</span>            
+        <span class="k">if</span> <span class="n">c_ts</span><span class="p">.</span><span class="n">shape</span><span class="p">[:</span><span class="mi">1</span><span class="p">]</span> <span class="o">==</span> <span class="p">(</span><span class="mi">0</span><span class="p">,)</span> <span class="ow">or</span> <span class="n">c_ts</span><span class="p">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="mi">2</span><span class="p">]</span> <span class="o">==</span> <span class="p">(</span><span class="mi">0</span><span class="p">,):</span>
+            <span class="k">pass</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="c1"># Getting preprocessed blob with Traffic Sign of needed shape
+</span>            <span class="n">blob_ts</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">dnn</span><span class="p">.</span><span class="n">blobFromImage</span><span class="p">(</span><span class="n">c_ts</span><span class="p">,</span> <span class="mi">1</span> <span class="o">/</span> <span class="mf">255.0</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="p">(</span><span class="mi">32</span><span class="p">,</span> <span class="mi">32</span><span class="p">),</span> <span class="n">swapRB</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">crop</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+            <span class="n">blob_ts</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">blob_ts</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="p">:,</span> <span class="p">:,</span> <span class="p">:]</span> <span class="o">-</span> <span class="n">mean</span><span class="p">[</span><span class="s">'mean_image_rgb'</span><span class="p">]</span>
+            <span class="n">blob_ts</span> <span class="o">=</span> <span class="n">blob_ts</span><span class="p">.</span><span class="n">transpose</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+            <span class="c1"># plt.imshow(blob_ts[0, :, :, :])
+</span>            <span class="c1"># plt.show()
+</span>
+            <span class="c1"># Feeding to the Keras CNN model to get predicted label among 43 classes
+</span>            <span class="n">scores</span> <span class="o">=</span> <span class="n">model</span><span class="p">.</span><span class="n">predict</span><span class="p">(</span><span class="n">blob_ts</span><span class="p">)</span>
+
+            <span class="c1"># Scores is given for image with 43 numbers of predictions for each class
+</span>            <span class="c1"># Getting only one class with maximum value
+</span>            <span class="n">prediction</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">scores</span><span class="p">)</span>
+            <span class="k">print</span><span class="p">(</span><span class="n">labels</span><span class="p">[</span><span class="s">'SignName'</span><span class="p">][</span><span class="n">prediction</span><span class="p">])</span>
+
+
+            <span class="c1"># Colour for current bounding box
+</span>            <span class="n">colour_box_current</span> <span class="o">=</span> <span class="n">colours</span><span class="p">[</span><span class="n">class_numbers</span><span class="p">[</span><span class="n">i</span><span class="p">]].</span><span class="n">tolist</span><span class="p">()</span>
+            
+            <span class="c1"># Green BGR
+</span>            <span class="n">colour_box_current</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">255</span><span class="p">,</span> <span class="mi">61</span><span class="p">]</span>
+            
+            <span class="c1"># Yellow BGR
+#             colour_box_current = [0, 255, 255]
+</span>
+            <span class="c1"># Drawing bounding box on the original current frame
+</span>            <span class="n">cv2</span><span class="p">.</span><span class="n">rectangle</span><span class="p">(</span><span class="n">image_BGR</span><span class="p">,</span> <span class="p">(</span><span class="n">x_min</span><span class="p">,</span> <span class="n">y_min</span><span class="p">),</span>
+                              <span class="p">(</span><span class="n">x_min</span> <span class="o">+</span> <span class="n">box_width</span><span class="p">,</span> <span class="n">y_min</span> <span class="o">+</span> <span class="n">box_height</span><span class="p">),</span>
+                              <span class="n">colour_box_current</span><span class="p">,</span> <span class="mi">6</span><span class="p">)</span>
+
+<span class="c1">#             # Preparing text with label and confidence for current bounding box
+#             text_box_current = '{}: {:.4f}'.format(labels['SignName'][prediction],
+#                                                    confidences[i])
+</span>            
+<span class="c1">#             # Putting text with label and confidence on the original image
+#             cv2.putText(image_BGR, text_box_current, (x_min, y_min - 15),
+#                             cv2.FONT_HERSHEY_SIMPLEX, 0.9, colour_box_current, 2)
+</span>            
+            <span class="k">if</span> <span class="n">prediction</span> <span class="o">==</span> <span class="mi">5</span><span class="p">:</span>
+                <span class="c1"># Preparing text with label and confidence for current bounding box
+</span>                <span class="n">text_box_current</span> <span class="o">=</span> <span class="s">'{}: {:.4f}'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="s">'Speed limit 60'</span><span class="p">,</span> <span class="n">confidences</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+
+                <span class="c1"># Putting text with label and confidence on the original image
+</span>                <span class="n">cv2</span><span class="p">.</span><span class="n">putText</span><span class="p">(</span><span class="n">image_BGR</span><span class="p">,</span> <span class="n">text_box_current</span><span class="p">,</span> <span class="p">(</span><span class="n">x_min</span> <span class="o">-</span> <span class="mi">110</span><span class="p">,</span> <span class="n">y_min</span> <span class="o">-</span> <span class="mi">10</span><span class="p">),</span>
+                                <span class="n">cv2</span><span class="p">.</span><span class="n">FONT_HERSHEY_SIMPLEX</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">,</span> <span class="n">colour_box_current</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+                
+            <span class="k">elif</span> <span class="n">prediction</span> <span class="o">==</span> <span class="mi">9</span><span class="p">:</span>            
+                <span class="c1"># Preparing text with label and confidence for current bounding box
+</span>                <span class="n">text_box_current</span> <span class="o">=</span> <span class="s">'{}: {:.4f}'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="s">'No overtaking'</span><span class="p">,</span> <span class="n">confidences</span><span class="p">[</span><span class="n">i</span><span class="p">])</span>
+
+                <span class="c1"># Putting text with label and confidence on the original image
+</span>                <span class="n">cv2</span><span class="p">.</span><span class="n">putText</span><span class="p">(</span><span class="n">image_BGR</span><span class="p">,</span> <span class="n">text_box_current</span><span class="p">,</span> <span class="p">(</span><span class="n">x_min</span> <span class="o">-</span> <span class="mi">110</span><span class="p">,</span> <span class="n">y_min</span> <span class="o">+</span> <span class="n">box_height</span> <span class="o">+</span> <span class="mi">30</span><span class="p">),</span>
+                                <span class="n">cv2</span><span class="p">.</span><span class="n">FONT_HERSHEY_SIMPLEX</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">,</span> <span class="n">colour_box_current</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+
+<span class="c1">#             elif prediction == 17:            
+#                 # Preparing text with label and confidence for current bounding box
+#                 text_box_current = '{}: {:.4f}'.format('No entry', confidences[i])
+</span>
+<span class="c1">#                 # Putting text with label and confidence on the original image
+#                 cv2.putText(image_BGR, text_box_current, (x_min - 170, y_min - 15),
+#                                 cv2.FONT_HERSHEY_SIMPLEX, 0.9, colour_box_current, 2)
+</span>                
+                
+<span class="c1"># Saving image
+</span><span class="n">cv2</span><span class="p">.</span><span class="n">imwrite</span><span class="p">(</span><span class="s">'result.png'</span><span class="p">,</span> <span class="n">image_BGR</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Total amount of time 0.29843 seconds
+Ahead only
+No passing
+
+
+
+
+
+True
+</code></pre></div></div>
+
+<h1 id="-showing-processed-image">🦞 Showing processed image</h1>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
+
+<span class="n">plt</span><span class="p">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s">'figure.figsize'</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span><span class="mf">35.0</span><span class="p">,</span> <span class="mf">35.0</span><span class="p">)</span> <span class="c1"># Setting default size of plots
+</span>
+<span class="n">image_BGR</span> <span class="o">=</span> <span class="n">cv2</span><span class="p">.</span><span class="n">imread</span><span class="p">(</span><span class="s">'/kaggle/working/result.png'</span><span class="p">)</span>
+
+<span class="c1"># Showing image shape
+</span><span class="k">print</span><span class="p">(</span><span class="s">'Image shape:'</span><span class="p">,</span> <span class="n">image_BGR</span><span class="p">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c1"># tuple of (800, 1360, 3)
+</span>
+<span class="c1"># Getting spatial dimension of input image
+</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span> <span class="o">=</span> <span class="n">image_BGR</span><span class="p">.</span><span class="n">shape</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span>  <span class="c1"># Slicing from tuple only first two elements
+</span>
+<span class="c1"># Showing height an width of image
+</span><span class="k">print</span><span class="p">(</span><span class="s">'Image height={0} and width={1}'</span><span class="p">.</span><span class="nb">format</span><span class="p">(</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">))</span>  <span class="c1"># 800 1360
+</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">cv2</span><span class="p">.</span><span class="n">cvtColor</span><span class="p">(</span><span class="n">image_BGR</span><span class="p">,</span> <span class="n">cv2</span><span class="p">.</span><span class="n">COLOR_BGR2RGB</span><span class="p">))</span>
+<span class="n">plt</span><span class="p">.</span><span class="n">axis</span><span class="p">(</span><span class="s">'off'</span><span class="p">)</span>
+<span class="c1"># plt.title('Keras Visualization', fontsize=18)
+</span>
+<span class="c1"># Showing the plot
+</span><span class="n">plt</span><span class="p">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="n">plt</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
+
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Image shape: (720, 1280, 3)
+Image height=720 and width=1280
+</code></pre></div></div>
+
+<p><img src="/assets/output_28_1.png" alt="png" /></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Saving locally without committing
+</span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">FileLink</span>
+
+<span class="n">FileLink</span><span class="p">(</span><span class="s">'result.png'</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<p><a href="result.png" target="_blank">result.png</a><br /></p>
+
+<h1 id="-example-of-the-result">🔎 Example of the result</h1>
+
+<p><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3400968%2Fa57f58b38e3caab6fbf72169895f5074%2Fresult.gif?generation=1585955236302060&amp;alt=media" alt="" /></p>]]></content><author><name>sonalithote</name></author><category term="ML_project" /><summary type="html"><![CDATA[The primary objectives for any recognition system include **detection** (ascertaining the location and size of an object within an input image) and **classification** (assigning the detected objects into specific subclasses). Typically, a singular detection/classification model, such as YOLO or SSD, is employed for both tasks, where input images are annotated with bounding boxes and their corresponding classes. However, the labelling and training of such datasets demand considerable time and effort. Consequently, the principal aim of this project is to identify a single main class (signs) and to incorporate a custom-built Convolutional Neural Network for the classification of the detected objects into subclasses (for instance, speed limits, stop signs, etc.). This approach necessitates training a detection model only once to recognize one main class, while allowing for the training of multiple classification models to categorize detected objects based on the specific requirements of the task.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://picsum.photos/2560/600?image=733" /><media:content medium="image" url="https://picsum.photos/2560/600?image=733" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

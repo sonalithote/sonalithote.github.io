@@ -2,16 +2,16 @@
 title: About me
 feature_text: |
   ## Sonali Thote
-  This is my portfolio to showcase personal, private and professional project and domain work
+  Seeking New Horizons: A Software Engineer's Journey
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Software Engineer"
 ---
 
-I am results-driven Software Engineer with 5+ years of proven industry experience across domains like Finance, Product, and Agriculture domains. Skilled in delivering scalable and highly-available systems. Proficient in both individual contributor and managerial roles for every task and responsibility
+As a seasoned Software Engineer with a rich background spanning over six years, my career has traversed through various sectors including Finance, Product, and Agriculture, where I've excelled in crafting scalable and highly available systems. My technical proficiency is matched by my capability to lead and manage, ensuring that every project under my stewardship reaches its full potential.
 
-I hold Master degree (MS) in Computer Science Engineering with data science specialization from San Jose State University, California. 
+My academic journey culminated in earning a Master's degree in Computer Science Engineering with a specialization in Data Science from San Jose State University, California. This solid educational foundation has been pivotal in shaping my approach to solving complex problems and innovating within the tech landscape.
 
-Currently actively looking for opportunities in the Bay Area and open to interviews. Resident of San Jose, California.
+Currently residing in San Jose, California, I am on the lookout for new opportunities that can benefit from my extensive experience and passion for technology. I am eager to bring my blend of leadership, technical expertise, and innovative thinking to a dynamic team driving forward in the Bay Area.
 
 {% include button.html text="Connect Catalyst " icon="linkedin" link="https://www.linkedin.com/in/sonali-thote/" color="#0366d6" %} {% include button.html text="Code Canvas" icon="github" link="https://github.com/sonalithote" color="#24292e" %} {% include button.html text="Tweet me" icon="twitter" link="https://twitter.com/?lang=en" color="#0d94e7" %} 
 <!-- {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
